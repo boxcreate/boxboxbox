@@ -7,8 +7,8 @@
     "publishedAt": "2026-07-24T17:13:51Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "4874",
-    "likeCount": "254",
+    "viewCount": "5632",
+    "likeCount": "276",
     "durationSec": 2066,
     "tags": [
       "ANALYSIS"
@@ -55,8 +55,8 @@
     "publishedAt": "2026-07-22T12:02:51Z",
     "channelTitle": "The Chicane",
     "channelScore": 0.5,
-    "viewCount": "2252",
-    "likeCount": "89",
+    "viewCount": "2316",
+    "likeCount": "95",
     "durationSec": 567,
     "tags": [
       "ANALYSIS"
@@ -71,8 +71,8 @@
     "publishedAt": "2026-07-21T17:30:36Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "123797",
-    "likeCount": "3407",
+    "viewCount": "124108",
+    "likeCount": "3413",
     "durationSec": 890,
     "tags": [
       "ANALYSIS",
@@ -88,7 +88,7 @@
     "publishedAt": "2026-07-21T09:24:12Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "2023",
+    "viewCount": "2038",
     "likeCount": "48",
     "durationSec": 2902,
     "tags": [
@@ -104,7 +104,7 @@
     "publishedAt": "2026-07-19T20:37:03Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "53240",
+    "viewCount": "53354",
     "likeCount": "1788",
     "durationSec": 1131,
     "tags": [
@@ -136,7 +136,7 @@
     "publishedAt": "2026-07-16T16:53:52Z",
     "channelTitle": "Formula Neon F1",
     "channelScore": 0.5,
-    "viewCount": "6864",
+    "viewCount": "6872",
     "likeCount": "403",
     "durationSec": 112,
     "tags": [
@@ -168,7 +168,7 @@
     "publishedAt": "2026-07-07T17:00:04Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "155612",
+    "viewCount": "155657",
     "likeCount": "3485",
     "durationSec": 989,
     "tags": [
@@ -184,8 +184,8 @@
     "publishedAt": "2026-06-30T18:00:15Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "98924",
-    "likeCount": "2348",
+    "viewCount": "98943",
+    "likeCount": "2349",
     "durationSec": 960,
     "tags": [
       "ANALYSIS"
@@ -216,7 +216,7 @@
     "publishedAt": "2026-07-05T23:45:39Z",
     "channelTitle": "The Max Verstappen Era",
     "channelScore": 0.5,
-    "viewCount": "102041",
+    "viewCount": "102045",
     "likeCount": "2647",
     "durationSec": 108,
     "tags": [
@@ -232,8 +232,8 @@
     "publishedAt": "2026-07-05T19:19:37Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "674388",
-    "likeCount": "16560",
+    "viewCount": "674400",
+    "likeCount": "16559",
     "durationSec": 654,
     "tags": [
       "REACTION"
@@ -256,5 +256,21 @@
       "TECH"
     ],
     "url": "https://www.youtube.com/watch?v=tRCw6uRqbZQ"
+  },
+  {
+    "id": "CdcLYGFw07s",
+    "title": "Ferrari's new flow deflectors explained 🚨 #Ferrari #SF26 #AustrianGP #F1 #Hamilton #Leclerc #Race",
+    "description": "Ferrari has introduced a subtle but potentially important aerodynamic upgrade for the Austrian Grand Prix! 🇦🇹🏎️\n\nRather than bringing a major redesign, the Scuderia has focused on improving the SF-26's aerodynamic efficiency with revised front-end flow deflectors and updated turning vanes. These small refinements are designed to optimize airflow around the front wheels, helping the floor, diffuser and sidepods work more effectively.\n\nIn this video, we explain why these changes matter, how Fer",
+    "thumbnail": "https://i.ytimg.com/vi/CdcLYGFw07s/maxresdefault.jpg",
+    "publishedAt": "2026-06-28T00:02:04Z",
+    "channelTitle": "ScuderiaFans",
+    "channelScore": 0.5,
+    "viewCount": "1116",
+    "likeCount": "30",
+    "durationSec": 116,
+    "tags": [
+      "ANALYSIS"
+    ],
+    "url": "https://www.youtube.com/watch?v=CdcLYGFw07s"
   }
 ]
