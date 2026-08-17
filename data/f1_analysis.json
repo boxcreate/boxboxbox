@@ -56,7 +56,7 @@
     "publishedAt": "2026-07-21T17:30:36Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "132353",
+    "viewCount": "132354",
     "likeCount": "3531",
     "durationSec": 890,
     "tags": [
@@ -73,8 +73,8 @@
     "publishedAt": "2026-07-07T17:00:04Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "157546",
-    "likeCount": "3500",
+    "viewCount": "157551",
+    "likeCount": "3501",
     "durationSec": 989,
     "tags": [
       "ANALYSIS"
@@ -89,8 +89,8 @@
     "publishedAt": "2026-07-05T19:19:37Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "676466",
-    "likeCount": "16573",
+    "viewCount": "676469",
+    "likeCount": "16574",
     "durationSec": 654,
     "tags": [
       "REACTION"
@@ -154,7 +154,7 @@
     "publishedAt": "2026-06-23T13:44:05Z",
     "channelTitle": "THE RACE",
     "channelScore": 0.85,
-    "viewCount": "487399",
+    "viewCount": "487400",
     "likeCount": "9070",
     "durationSec": 532,
     "tags": [
@@ -171,7 +171,7 @@
     "publishedAt": "2026-06-16T17:00:21Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "385565",
+    "viewCount": "385569",
     "likeCount": "7710",
     "durationSec": 800,
     "tags": [
@@ -187,7 +187,7 @@
     "publishedAt": "2026-06-14T21:49:14Z",
     "channelTitle": "THE RACE",
     "channelScore": 0.85,
-    "viewCount": "394164",
+    "viewCount": "394182",
     "likeCount": "8644",
     "durationSec": 570,
     "tags": [
@@ -243,5 +243,21 @@
       "TECH"
     ],
     "url": "https://www.youtube.com/watch?v=KP567-axq-E"
+  },
+  {
+    "id": "q5vQEzSaDAs",
+    "title": "Barcelona GP Quali Analysis + RACE PACE Order | Russell v Antonelli v Hamilton, LEC Crash + More!",
+    "description": "What did we learn from the 2026 F1 Barcelona Qualifying and what is the Race Pace prediction from long runs? Where did Antonelli lose out? What about McLaren, and could Hamilton have been on pole? Leclerc's crash and much more analysed also!\n\n🔴FERRARI VIDEO: https://youtu.be/KP567-axq-E\n\n🔷Formula Insights Website + Channel Membership 🔷\nhttps://formula-insights.com/\n\n🟣Bite-sized insights on Instagram! https://www.instagram.com/formula_insights_/ \n\n🔷Join The Conversation On Discord! https://d",
+    "thumbnail": "https://i.ytimg.com/vi/q5vQEzSaDAs/maxresdefault.jpg",
+    "publishedAt": "2026-06-13T21:38:54Z",
+    "channelTitle": "Formula Insights",
+    "channelScore": 0.5,
+    "viewCount": "11985",
+    "likeCount": "379",
+    "durationSec": 1215,
+    "tags": [
+      "ANALYSIS"
+    ],
+    "url": "https://www.youtube.com/watch?v=q5vQEzSaDAs"
   }
 ]
