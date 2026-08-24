@@ -305,12 +305,20 @@
   "slot2_remaining": 2,
   "digest_items": [
     {
+      "id": "0454b28221b9dcf9f70de69f75a46f4a",
+      "title": "Pierre Gasly\u2019s warning to Racing Bulls: \u2018They ruined our race, and I won\u2019t forget it\u2019",
+      "url": "https://www.motorsport.com/f1/news/pierre-gaslys-warning-to-racing-bulls-they-ruined-our-race-and-i-wont-forget-it/10848918/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "score": 998,
+      "timestamp": "2026-08-24T09:16:10",
+      "image": "https://cdn-3.motorsport.com/images/amp/0LdexPa0/s6/pierre-gasly-alpine.jpg"
+    },
+    {
       "id": "1fd2df59c17de5d7cf4266d9cbbca456",
       "title": "Mercedes confirms Kimi Antonelli grid penalty in Monza",
       "url": "https://www.motorsport.com/f1/news/mercedes-confirms-kimi-antonelli-grid-penalty-in-monza-for-full-power-unit-change/10848891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "score": 115,
       "timestamp": "2026-08-24T08:11:46",
-      "image": "https://cdn-9.motorsport.com/images/amp/25dLd3x0/s6/andrea-kimi-antonelli-mercedes.jpg"
+      "image": "https://cdn-8.motorsport.com/images/amp/YXyKRw56/s6/andrea-kimi-antonelli-mercedes-2.jpg"
     },
     {
       "id": "641235fcb2b0fce9a1b419aef2246ba0",
@@ -318,7 +326,7 @@
       "url": "https://www.motorsport.com/f1/news/carlos-sainz-explains-fair-penalty-for-alex-albon-contact-the-worst-possible-outcome/10848715/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "score": 75,
       "timestamp": "2026-08-23T17:32:30",
-      "image": "https://cdn-1.motorsport.com/images/amp/0Lde1NV0/s6/alexander-albon-williams-carlo.jpg"
+      "image": "https://cdn-9.motorsport.com/images/amp/0Lde1NV0/s6/alexander-albon-williams-carlo.jpg"
     },
     {
       "id": "836cafe1c7d101770214a52f1f3f5768",
@@ -334,7 +342,7 @@
       "url": "https://www.motorsport.com/f1/news/nico-rosberg-weighs-in-on-mercedes-dutch-gp-team-orders-between-kimi-antonelli-and-george-russell/10848674/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "score": 65,
       "timestamp": "2026-08-23T16:25:40",
-      "image": "https://cdn-1.motorsport.com/images/amp/0JXRB3OY/s6/andrea-kimi-antonelli-mercedes-2.jpg"
+      "image": "https://cdn-3.motorsport.com/images/amp/0JXRB3OY/s6/andrea-kimi-antonelli-mercedes-2.jpg"
     },
     {
       "id": "f4a6b3c06b1613970a9296e543be472b",
@@ -342,7 +350,7 @@
       "url": "https://www.motorsport.com/f1/news/george-russell-concedes-mercedess-dutch-gp-team-orders-the-right-decision/10848656/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "score": 65,
       "timestamp": "2026-08-23T15:56:19",
-      "image": "https://cdn-2.motorsport.com/images/amp/6x7LEwjY/s6/andrea-kimi-antonelli-mercedes.jpg"
+      "image": "https://cdn-1.motorsport.com/images/amp/6x7LEwjY/s6/andrea-kimi-antonelli-mercedes.jpg"
     },
     {
       "id": "9e59bb13fc9d894d41d1ae2c6f30d118",
@@ -350,7 +358,7 @@
       "url": "https://www.motorsport.com/f1/news/george-russell-still-not-there-as-mercedes-pressure-builds-after-dutch-gp-says-former-f1-driver/10848816/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "score": 60,
       "timestamp": "2026-08-23T22:59:33",
-      "image": "https://cdn-3.motorsport.com/images/amp/6b8Z7dr2/s6/george-russell-mercedes.jpg"
+      "image": "https://cdn-1.motorsport.com/images/amp/6b8Z7dr2/s6/george-russell-mercedes.jpg"
     },
     {
       "id": "f113e67398178b391bee76fd3c5e091c",
@@ -358,7 +366,7 @@
       "url": "https://www.motorsport.com/f1/news/winners-and-losers-f1-chaotic-dutch-grand-prix/10848769/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "score": 50,
       "timestamp": "2026-08-23T19:15:32",
-      "image": "https://cdn-8.motorsport.com/images/amp/27NoNoo0/s6/lando-norris-mclaren.jpg"
+      "image": "https://cdn-1.motorsport.com/images/amp/27NoNoo0/s6/lando-norris-mclaren.jpg"
     },
     {
       "id": "eb0481ed3fce3005c7846785f5d2b4f0",
@@ -366,7 +374,7 @@
       "url": "https://www.motorsport.com/f1/news/it-made-no-sense-f1-drivers-question-safety-car-formation-lap-after-early-dutch-gp-chaos/10848751/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "score": 50,
       "timestamp": "2026-08-23T18:37:29",
-      "image": "https://cdn-8.motorsport.com/images/amp/6lmA9ND0/s6/race-start.jpg"
+      "image": "https://cdn-2.motorsport.com/images/amp/6lmA9ND0/s6/race-start.jpg"
     },
     {
       "id": "5f92e83ae92470f2e51888f220cc0d56",
@@ -374,7 +382,7 @@
       "url": "https://www.motorsport.com/f1/news/franco-colapinto-and-mercado-libre-executive-hit-out-at-fia-stewards-after-dutch-gp-penalties/10848727/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "score": 50,
       "timestamp": "2026-08-23T17:51:16",
-      "image": "https://cdn-1.motorsport.com/images/amp/YWKA7p5Y/s6/franco-colapinto-alpine.jpg"
+      "image": "https://cdn-9.motorsport.com/images/amp/YWKA7p5Y/s6/franco-colapinto-alpine.jpg"
     },
     {
       "id": "0df3b9760100892b9fab3a10624ea93a",
@@ -382,7 +390,7 @@
       "url": "https://www.motorsport.com/f1/news/nowhere-near-good-enough-mclaren-puzzled-by-dutch-gp-sprint-struggles/10848225/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "score": 48,
       "timestamp": "2026-08-22T12:22:20",
-      "image": "https://cdn-2.motorsport.com/images/amp/0R7BrAE2/s6/lando-norris-mclaren.jpg"
+      "image": "https://cdn-4.motorsport.com/images/amp/0R7BrAE2/s6/lando-norris-mclaren.jpg"
     },
     {
       "id": "b2487427f3f82fdede47b700c5fc1fe7",
@@ -390,7 +398,7 @@
       "url": "https://www.motorsport.com/f1/news/its-just-nuts-lewis-hamilton-baffled-by-ferraris-tyre-warming-struggle/10848524/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "score": 45,
       "timestamp": "2026-08-23T09:58:17",
-      "image": "https://cdn-4.motorsport.com/images/amp/2wlKBJ3Y/s6/lewis-hamilton-ferrari.jpg"
+      "image": "https://cdn-8.motorsport.com/images/amp/2wlKBJ3Y/s6/lewis-hamilton-ferrari.jpg"
     },
     {
       "id": "324ef21396aeaf52cdd9637b93ce2b03",
@@ -406,7 +414,7 @@
       "url": "https://www.motorsport.com/f1/news/yuki-tsunoda-racing-bulls-is-pretty-impressed-with-my-performance-so-far/10848500/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "score": 40,
       "timestamp": "2026-08-23T08:39:38",
-      "image": "https://cdn-7.motorsport.com/images/amp/YN7v1j46/s6/yuki-tsunoda-racing-bulls.jpg"
+      "image": "https://cdn-4.motorsport.com/images/amp/YN7v1j46/s6/yuki-tsunoda-racing-bulls.jpg"
     },
     {
       "id": "d1dcfa0593d9634811d60dfd58b19111",
@@ -414,7 +422,7 @@
       "url": "https://www.motorsport.com/f1/news/max-verstappens-george-russell-radio-joke-goes-viral-after-dutch-gp-qualifying/10848361/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "score": 36,
       "timestamp": "2026-08-22T16:47:54",
-      "image": "https://cdn-1.motorsport.com/images/amp/YvKBbjL6/s6/max-verstappen-red-bull.jpg"
+      "image": "https://cdn-7.motorsport.com/images/amp/YvKBbjL6/s6/max-verstappen-red-bull.jpg"
     },
     {
       "id": "5f550f237fd0a0e2f1d276e2e2e4eb78",
@@ -422,7 +430,7 @@
       "url": "https://www.motorsport.com/f1/news/f1-dutch-gp-qualifying-report/10848291/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "score": 36,
       "timestamp": "2026-08-22T15:08:59",
-      "image": "https://cdn-9.motorsport.com/images/amp/0Zq8Re56/s6/lando-norris-mclaren-2.jpg"
+      "image": "https://cdn-6.motorsport.com/images/amp/0Zq8Re56/s6/lando-norris-mclaren-2.jpg"
     },
     {
       "id": "dac815250b5bf18fad14309f1cc5a36b",
@@ -430,7 +438,7 @@
       "url": "https://www.motorsport.com/f1/news/nico-rosberg-warns-kimi-antonelli-of-f1-title-demons/10848584/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "score": 35,
       "timestamp": "2026-08-23T12:45:10",
-      "image": "https://cdn-5.motorsport.com/images/amp/0R7we7o2/s6/andrea-kimi-antonelli-mercedes.jpg"
+      "image": "https://cdn-1.motorsport.com/images/amp/0R7we7o2/s6/andrea-kimi-antonelli-mercedes.jpg"
     },
     {
       "id": "270f5d48e156b11701439b2ea7c657eb",
@@ -438,7 +446,7 @@
       "url": "https://www.motorsport.com/f1/news/wolff-jokes-about-verstappens-red-bull-deal-mercedes-has-him-for-the-real-hero-races/10848470/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "score": 32,
       "timestamp": "2026-08-23T07:58:01",
-      "image": "https://cdn-1.motorsport.com/images/amp/YMX3J5L2/s6/3-mercedes-amg-team-verstappen-2.jpg"
+      "image": "https://cdn-6.motorsport.com/images/amp/YMX3J5L2/s6/3-mercedes-amg-team-verstappen-2.jpg"
     },
     {
       "id": "43302c88cb2858d6d6d9c0bfbb79d17d",
@@ -446,7 +454,7 @@
       "url": "https://www.motorsport.com/f1/news/no-max-verstappen-talks-for-mercedes-this-time-around-but-toto-wolff-still-has-hope/10848296/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "score": 32,
       "timestamp": "2026-08-22T15:25:42",
-      "image": "https://cdn-3.motorsport.com/images/amp/6x7LLGmY/s6/max-verstappen-red-bull-racing.jpg"
+      "image": "https://cdn-6.motorsport.com/images/amp/6x7LLGmY/s6/max-verstappen-red-bull-racing.jpg"
     }
   ],
   "digest_sent": true,
@@ -2341,161 +2349,162 @@
     "a7baadaf781aa66ef850401f13349ebb",
     "3f61ea2e81a13649b70c4a783fe74844",
     "3ff2278bf5c68b16d80940d517e48c45",
-    "0f8e9d740c575caadc9727863eaad6b3"
+    "0f8e9d740c575caadc9727863eaad6b3",
+    "9ddd37f4448430a51fcf129c7ae386ad"
   ],
   "schema_version": 3,
   "sent_urls": [
-    "https://www.motorsport.com/f1/news/isack-hadjar-to-miss-f1-dutch-gp-red-bulls-replacement-confirmed/10847292/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/f1-dutch-gp-fp1-report/10847855/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/christian-horner-announces-uk-book-tour-for-new-memoir-following-red-bull-f1-exit/10846959/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/lewis-hamilton-under-investigation-by-hungarian-gp-stewards-over-impeding/10841768/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/even-ai-would-have-predicted-mclaren-hungary-gp-win-mercedes-isnt-worried-about-rivals-f1-pace/10842626/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
     "https://www.motorsport.com/f1/news/its-our-mistake-ferrari-takes-blame-for-lewis-hamilton-penalty-in-f1-hungarian-gp-qualifying/10841872/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/dutch-f1-grand-prix-red-flagged-after-huge-max-verstappen-crash/10848600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/carlos-sainz-reveals-message-to-williams-factory-after-tough-2026-f1-start-take-it-personal/10848380/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/2026-f1-dutch-grand-prix-sprint-starting-grid/10847969/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/bernd-maylander-reveals-upgrades-to-f1s-new-mercedes-safety-car/10841925/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/former-haas-f1-boss-calls-out-fia-over-lenient-carlos-sainz-hungarian-gp-penalty/10843692/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/f1-hungarian-gp-lando-norris-mclarens-wins-piastri-dnf/10842085/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/mercedes-impressed-by-sizeable-mclaren-upgrade-after-hungarian-gp-defeat/10843070/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/mika-hakkinen-reveals-doubts-over-f1-return-after-life-threatening-crash-in-1995/10844730/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/former-f1-driver-reveals-he-offered-london-pub-to-jeremy-clarkson-in-unusual-deal/10845369/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/fia-reveals-ambitious-target-to-make-f1-cars-another-80kg-lighter/10844708/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/toto-wolff-expects-george-russell-engine-change-hungary-f1-pitlane-start-looms/10841840/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/max-verstappen-dutch-gp-crash/10848636/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/hamilton-gets-grid-penalty-in-hungary/10841856/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/lando-norris-reveals-how-fierce-oscar-piastri-rivalry-has-driven-his-f1-development/10843323/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/kimi-antonelli-risks-grid-drop-amid-hungary-f1-qualifying-investigation/10841791/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
     "https://www.motorsport.com/f1/news/oliver-bearman-reveals-new-business-venture-away-from-f1/10845198/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/kimi-antonelli-handed-grid-drop-for-yellow-flag-infringement-in-f1-hungarian-gp-qualifying/10841895/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/mercedes-will-be-worried-about-mclaren-threat-in-f1-title-fight-says-former-driver/10848699/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/lando-norris-would-have-won-hungarian-gp-even-without-oscar-piastris-problems-says-f1-tv-pundit/10842281/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/f1-dutch-gp-sprint-report/10848161/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/mclaren-victory-leaves-2026-f1-title-race-far-from-over-says-martin-brundle/10843926/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/oscar-piastri-tears-into-unacceptable-carlos-sainz-incident-accepts-mclaren-strategy/10842146/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/mercedes-too-early-to-favour-kimi-antonelli-in-f1-2026-title-fight/10844464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/f1-fans-declare-silly-season-over-after-max-verstappen-red-bull-contract-announcement/10847541/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/f1-helmet-signed-by-20-drivers-raises-record-six-figure-sum-for-charity/10844751/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/hungarian-gp-win-proves-lando-norris-is-performing-better-than-in-f1-title-winning-year/10842206/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/franco-colapinto-reveals-details-of-milan-car-robbery-during-f1-summer-break/10847944/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/oliver-bearman-admits-lewis-hamilton-resurgence-complicates-ferrari-f1-dream/10843706/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
     "https://www.motorsport.com/f1/news/max-verstappens-red-bull-deal-leaves-f1-rivals-breathing-a-sigh-of-relief-says-david-coulthard/10848285/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/christian-horner-announces-uk-book-tour-for-new-memoir-following-red-bull-f1-exit/10846959/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/f1-dutch-gp-sprint-report/10848161/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/mercedes-will-be-worried-about-mclaren-threat-in-f1-title-fight-says-former-driver/10848699/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/f1-dutch-gp-fp1-report/10847855/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/former-haas-f1-boss-calls-out-fia-over-lenient-carlos-sainz-hungarian-gp-penalty/10843692/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/lewis-hamilton-under-investigation-by-hungarian-gp-stewards-over-impeding/10841768/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/f1-hungarian-gp-qualifying-results/10841752/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/hamilton-gets-grid-penalty-in-hungary/10841856/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/max-verstappen-dutch-gp-crash/10848636/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/mercedes-too-early-to-favour-kimi-antonelli-in-f1-2026-title-fight/10844464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/hungarian-gp-win-proves-lando-norris-is-performing-better-than-in-f1-title-winning-year/10842206/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
     "https://www.motorsport.com/f1/news/karun-chandhok-surprised-by-length-of-max-verstappens-red-bull-contract/10847737/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/f1-hungarian-gp-qualifying-results/10841752/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+    "https://www.motorsport.com/f1/news/f1-fans-declare-silly-season-over-after-max-verstappen-red-bull-contract-announcement/10847541/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/former-f1-driver-reveals-he-offered-london-pub-to-jeremy-clarkson-in-unusual-deal/10845369/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/bernd-maylander-reveals-upgrades-to-f1s-new-mercedes-safety-car/10841925/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/kimi-antonelli-handed-grid-drop-for-yellow-flag-infringement-in-f1-hungarian-gp-qualifying/10841895/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/fia-reveals-ambitious-target-to-make-f1-cars-another-80kg-lighter/10844708/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/2026-f1-dutch-grand-prix-sprint-starting-grid/10847969/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/toto-wolff-expects-george-russell-engine-change-hungary-f1-pitlane-start-looms/10841840/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/oliver-bearman-admits-lewis-hamilton-resurgence-complicates-ferrari-f1-dream/10843706/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/mika-hakkinen-reveals-doubts-over-f1-return-after-life-threatening-crash-in-1995/10844730/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/isack-hadjar-to-miss-f1-dutch-gp-red-bulls-replacement-confirmed/10847292/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/lando-norris-would-have-won-hungarian-gp-even-without-oscar-piastris-problems-says-f1-tv-pundit/10842281/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/carlos-sainz-reveals-message-to-williams-factory-after-tough-2026-f1-start-take-it-personal/10848380/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/f1-helmet-signed-by-20-drivers-raises-record-six-figure-sum-for-charity/10844751/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/mercedes-impressed-by-sizeable-mclaren-upgrade-after-hungarian-gp-defeat/10843070/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/oscar-piastri-tears-into-unacceptable-carlos-sainz-incident-accepts-mclaren-strategy/10842146/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/lando-norris-reveals-how-fierce-oscar-piastri-rivalry-has-driven-his-f1-development/10843323/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/even-ai-would-have-predicted-mclaren-hungary-gp-win-mercedes-isnt-worried-about-rivals-f1-pace/10842626/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/f1-hungarian-gp-lando-norris-mclarens-wins-piastri-dnf/10842085/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/franco-colapinto-reveals-details-of-milan-car-robbery-during-f1-summer-break/10847944/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/kimi-antonelli-risks-grid-drop-amid-hungary-f1-qualifying-investigation/10841791/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/dutch-f1-grand-prix-red-flagged-after-huge-max-verstappen-crash/10848600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/mclaren-victory-leaves-2026-f1-title-race-far-from-over-says-martin-brundle/10843926/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
   ],
   "title_fingerprints": [
     {
       "tokens": [
-        "says",
-        "fight",
-        "f1",
-        "be",
-        "title",
-        "worried",
-        "will",
-        "former",
         "mclaren",
+        "fight",
         "mercedes",
-        "in",
+        "driver",
+        "says",
         "about",
+        "be",
         "threat",
-        "driver"
+        "worried",
+        "title",
+        "in",
+        "former",
+        "will",
+        "f1"
       ],
       "title": "Mercedes will be \"worried\" about McLaren threat in F1 title fight, says former driver",
       "timestamp": "2026-08-23T16:58:53"
     },
     {
       "tokens": [
-        "max",
-        "gp",
-        "f1",
         "caused",
-        "what",
         "crash",
+        "max",
         "dutch",
+        "s",
+        "what",
+        "gp",
         "verstappen",
-        "s"
+        "f1"
       ],
       "title": "What caused Max Verstappen\u2019s F1 Dutch GP crash",
       "timestamp": "2026-08-23T15:38:26"
     },
     {
       "tokens": [
-        "prix",
-        "max",
-        "f1",
-        "grand",
-        "red",
         "flagged",
         "huge",
-        "crash",
+        "grand",
         "after",
+        "crash",
+        "max",
         "dutch",
-        "verstappen"
+        "red",
+        "prix",
+        "verstappen",
+        "f1"
       ],
       "title": "Dutch F1 grand prix red flagged after huge Max Verstappen crash",
       "timestamp": "2026-08-23T13:17:45"
     },
     {
       "tokens": [
-        "personal",
-        "2026",
         "reveals",
-        "start",
-        "f1",
-        "williams",
-        "sainz",
-        "message",
-        "to",
-        "carlos",
-        "after",
-        "tough",
         "it",
+        "williams",
+        "to",
+        "after",
+        "message",
+        "2026",
+        "factory",
+        "carlos",
+        "tough",
+        "start",
+        "personal",
+        "f1",
         "take",
-        "factory"
+        "sainz"
       ],
       "title": "Carlos Sainz reveals message to Williams factory after tough 2026 F1 start: \"Take it personal\"",
       "timestamp": "2026-08-22T20:00:04"
     },
     {
       "tokens": [
-        "says",
+        "david",
+        "coulthard",
+        "leaves",
         "sigh",
         "max",
-        "f1",
-        "david",
-        "deal",
+        "says",
         "bull",
-        "of",
-        "red",
-        "rivals",
-        "verstappen",
-        "breathing",
-        "coulthard",
         "relief",
+        "breathing",
         "s",
+        "deal",
+        "of",
         "a",
-        "leaves"
+        "red",
+        "verstappen",
+        "rivals",
+        "f1"
       ],
       "title": "Max Verstappen's Red Bull deal leaves F1 rivals \"breathing a sigh of relief\", says David Coulthard",
       "timestamp": "2026-08-22T14:35:33"
     },
     {
       "tokens": [
-        "russell",
         "misses",
         "kimi",
-        "gp",
-        "f1",
-        "sprint",
-        "race",
         "as",
         "the",
         "dutch",
-        "george",
-        "antonelli",
+        "race",
         "podium",
-        "dominates"
+        "russell",
+        "george",
+        "gp",
+        "antonelli",
+        "sprint",
+        "dominates",
+        "f1"
       ],
       "title": "F1 Dutch GP: George Russell dominates sprint race as Kimi Antonelli misses the podium",
       "timestamp": "2026-08-22T10:40:50"
@@ -2503,146 +2512,146 @@
     {
       "tokens": [
         "reveals",
-        "colapinto",
-        "f1",
-        "milan",
-        "of",
-        "robbery",
         "details",
-        "during",
-        "summer",
-        "franco",
+        "colapinto",
+        "of",
         "break",
-        "car"
+        "robbery",
+        "f1",
+        "car",
+        "summer",
+        "during",
+        "milan",
+        "franco"
       ],
       "title": "Franco Colapinto reveals details of Milan car robbery during F1 summer break",
       "timestamp": "2026-08-21T18:00:02"
     },
     {
       "tokens": [
-        "2026",
-        "starting",
-        "prix",
-        "f1",
-        "sprint",
-        "grid",
-        "for",
         "grand",
-        "the",
+        "for",
+        "2026",
+        "dutch",
+        "starting",
         "is",
         "this",
-        "dutch"
+        "the",
+        "prix",
+        "sprint",
+        "grid",
+        "f1"
       ],
       "title": "This is the starting grid for the 2026 F1 Dutch Grand Prix sprint",
       "timestamp": "2026-08-21T15:53:36"
     },
     {
       "tokens": [
-        "kimi",
-        "gp",
-        "f1",
-        "sole",
-        "as",
-        "struggles",
-        "bull",
-        "red",
         "practice",
+        "kimi",
+        "as",
+        "zandvoort",
+        "bull",
         "dutch",
-        "tops",
+        "red",
+        "gp",
         "antonelli",
-        "zandvoort"
+        "sole",
+        "tops",
+        "struggles",
+        "f1"
       ],
       "title": "F1 Dutch GP: Kimi Antonelli tops sole Zandvoort practice as Red Bull struggles ",
       "timestamp": "2026-08-21T11:43:28"
     },
     {
       "tokens": [
-        "karun",
         "max",
-        "surprised",
-        "chandhok",
-        "bull",
         "by",
-        "of",
-        "red",
-        "verstappen",
-        "length",
+        "bull",
         "contract",
-        "s"
+        "chandhok",
+        "of",
+        "s",
+        "red",
+        "karun",
+        "surprised",
+        "length",
+        "verstappen"
       ],
       "title": "Karun Chandhok \"surprised\" by length of Max Verstappen's Red Bull contract",
       "timestamp": "2026-08-20T20:19:01"
     },
     {
       "tokens": [
-        "season",
-        "max",
-        "f1",
-        "fans",
-        "silly",
-        "bull",
-        "red",
-        "declare",
         "after",
         "announcement",
-        "verstappen",
+        "max",
+        "contract",
+        "bull",
+        "fans",
         "over",
-        "contract"
+        "season",
+        "red",
+        "verstappen",
+        "declare",
+        "silly",
+        "f1"
       ],
       "title": "F1 fans declare silly season over after Max Verstappen Red Bull contract announcement",
       "timestamp": "2026-08-20T10:34:19"
     },
     {
       "tokens": [
-        "gp",
-        "f1",
-        "bull",
         "replacement",
-        "red",
-        "to",
         "hadjar",
-        "dutch",
+        "to",
         "miss",
+        "bull",
+        "dutch",
+        "red",
+        "gp",
+        "confirmed",
         "isack",
-        "confirmed"
+        "f1"
       ],
       "title": "Isack Hadjar to miss F1 Dutch GP, Red Bull replacement confirmed",
       "timestamp": "2026-08-19T11:05:48"
     },
     {
       "tokens": [
-        "horner",
-        "following",
-        "f1",
+        "christian",
+        "uk",
         "new",
-        "exit",
         "bull",
         "for",
-        "christian",
-        "book",
-        "red",
-        "announces",
         "tour",
+        "exit",
+        "horner",
+        "red",
         "memoir",
-        "uk"
+        "following",
+        "announces",
+        "book",
+        "f1"
       ],
       "title": "Christian Horner announces UK book tour for new memoir following Red Bull F1 exit",
       "timestamp": "2026-08-17T21:41:09"
     },
     {
       "tokens": [
-        "2026",
-        "early",
-        "kimi",
-        "f1",
-        "fight",
-        "title",
-        "to",
-        "mercedes",
-        "in",
         "favour",
+        "kimi",
+        "too",
+        "mercedes",
+        "to",
+        "fight",
+        "early",
+        "2026",
+        "title",
         "antonelli",
-        "too"
+        "in",
+        "f1"
       ],
       "title": "Mercedes: \"Too early\" to favour Kimi Antonelli in F1 2026 title fight",
       "timestamp": "2026-08-17T14:02:46"
@@ -2650,34 +2659,34 @@
     {
       "tokens": [
         "reveals",
-        "f1",
-        "offered",
         "jeremy",
-        "deal",
-        "former",
-        "london",
-        "unusual",
         "clarkson",
-        "to",
-        "in",
+        "unusual",
         "pub",
+        "to",
+        "deal",
+        "he",
+        "offered",
+        "london",
+        "in",
+        "former",
         "driver",
-        "he"
+        "f1"
       ],
       "title": "Former F1 driver reveals he offered London pub to Jeremy Clarkson in unusual deal",
       "timestamp": "2026-08-09T22:40:54"
     },
     {
       "tokens": [
+        "oliver",
         "reveals",
         "business",
-        "f1",
-        "oliver",
         "from",
         "new",
         "away",
         "bearman",
-        "venture"
+        "venture",
+        "f1"
       ],
       "title": "Oliver Bearman reveals new business venture away from F1",
       "timestamp": "2026-08-09T10:12:42"
@@ -2685,109 +2694,109 @@
     {
       "tokens": [
         "reveals",
-        "another",
-        "f1",
-        "ambitious",
-        "to",
         "target",
+        "to",
+        "make",
         "lighter",
         "80kg",
-        "make",
+        "cars",
+        "ambitious",
+        "another",
         "fia",
-        "cars"
+        "f1"
       ],
       "title": "FIA reveals ambitious target to make F1 cars another 80kg lighter",
       "timestamp": "2026-08-07T14:51:12"
     },
     {
       "tokens": [
-        "signed",
-        "20",
-        "f1",
-        "raises",
+        "charity",
+        "sum",
         "by",
-        "helmet",
         "for",
+        "figure",
         "six",
         "drivers",
-        "sum",
-        "figure",
-        "charity",
-        "record"
+        "helmet",
+        "signed",
+        "20",
+        "record",
+        "raises",
+        "f1"
       ],
       "title": "F1 helmet signed by 20 drivers raises record six-figure sum for charity",
       "timestamp": "2026-08-07T13:29:27"
     },
     {
       "tokens": [
-        "doubts",
         "reveals",
-        "f1",
+        "threatening",
+        "after",
+        "crash",
+        "mika",
+        "hakkinen",
+        "life",
+        "doubts",
+        "1995",
         "return",
         "in",
-        "mika",
-        "threatening",
-        "crash",
-        "after",
-        "1995",
-        "life",
         "over",
-        "hakkinen"
+        "f1"
       ],
       "title": "Mika Hakkinen reveals doubts over F1 return after life-threatening crash in 1995",
       "timestamp": "2026-08-07T12:38:51"
     },
     {
       "tokens": [
-        "2026",
-        "says",
-        "martin",
-        "race",
-        "f1",
-        "from",
-        "title",
-        "mclaren",
-        "far",
-        "over",
-        "victory",
         "brundle",
-        "leaves"
+        "mclaren",
+        "from",
+        "leaves",
+        "victory",
+        "martin",
+        "far",
+        "says",
+        "2026",
+        "race",
+        "title",
+        "over",
+        "f1"
       ],
       "title": "McLaren victory leaves 2026 F1 title race \"far from over\", says Martin Brundle",
       "timestamp": "2026-08-03T15:12:31"
     },
     {
       "tokens": [
-        "ferrari",
-        "hamilton",
-        "f1",
         "oliver",
-        "complicates",
-        "lewis",
-        "admits",
+        "ferrari",
+        "dream",
         "bearman",
+        "hamilton",
+        "lewis",
         "resurgence",
-        "dream"
+        "complicates",
+        "admits",
+        "f1"
       ],
       "title": "Oliver Bearman admits Lewis Hamilton resurgence complicates Ferrari F1 dream",
       "timestamp": "2026-08-02T12:58:46"
     },
     {
       "tokens": [
-        "lenient",
-        "hungarian",
-        "f1",
-        "gp",
-        "former",
-        "out",
+        "haas",
         "boss",
+        "out",
         "sainz",
-        "penalty",
-        "carlos",
         "over",
         "calls",
+        "carlos",
+        "penalty",
+        "hungarian",
+        "gp",
+        "lenient",
+        "former",
         "fia",
-        "haas"
+        "f1"
       ],
       "title": "Former Haas F1 boss calls out FIA over 'lenient' Carlos Sainz Hungarian GP penalty",
       "timestamp": "2026-08-02T11:59:19"
@@ -2795,34 +2804,34 @@
     {
       "tokens": [
         "reveals",
-        "fierce",
-        "piastri",
-        "f1",
-        "how",
-        "lando",
-        "norris",
-        "has",
-        "his",
         "development",
-        "driven",
+        "fierce",
+        "his",
+        "lando",
+        "piastri",
+        "how",
         "oscar",
-        "rivalry"
+        "has",
+        "norris",
+        "driven",
+        "rivalry",
+        "f1"
       ],
       "title": "Lando Norris reveals how fierce Oscar Piastri rivalry has driven his F1 development",
       "timestamp": "2026-07-31T11:59:10"
     },
     {
       "tokens": [
-        "impressed",
-        "sizeable",
-        "hungarian",
-        "gp",
-        "upgrade",
-        "by",
         "mclaren",
+        "upgrade",
         "mercedes",
+        "sizeable",
+        "after",
+        "by",
+        "impressed",
+        "gp",
         "defeat",
-        "after"
+        "hungarian"
       ],
       "title": "Mercedes impressed by \"sizeable\" McLaren upgrade after Hungarian GP defeat",
       "timestamp": "2026-07-30T13:02:23"
@@ -2830,18 +2839,18 @@
     {
       "tokens": [
         "hungary",
-        "s",
-        "ai",
-        "would",
-        "gp",
-        "why",
-        "worried",
-        "mclaren",
-        "predicted",
-        "mercedes",
-        "t",
         "win",
+        "ai",
+        "mclaren",
+        "mercedes",
+        "would",
+        "why",
+        "predicted",
+        "s",
+        "worried",
+        "t",
         "have",
+        "gp",
         "isn",
         "even"
       ],
@@ -2850,81 +2859,81 @@
     },
     {
       "tokens": [
-        "says",
-        "s",
-        "would",
-        "hungarian",
-        "gp",
-        "piastri",
-        "f1",
-        "lando",
-        "norris",
         "problems",
         "tv",
-        "have",
-        "won",
-        "oscar",
-        "pundit",
+        "lando",
+        "piastri",
         "without",
-        "even"
+        "would",
+        "oscar",
+        "says",
+        "s",
+        "norris",
+        "pundit",
+        "have",
+        "gp",
+        "hungarian",
+        "won",
+        "even",
+        "f1"
       ],
       "title": "Lando Norris would have won Hungarian GP even without Oscar Piastri's problems, says F1 TV pundit",
       "timestamp": "2026-07-26T22:57:55"
     },
     {
       "tokens": [
-        "better",
-        "proves",
-        "hungarian",
-        "gp",
-        "f1",
+        "win",
         "winning",
         "lando",
-        "norris",
+        "year",
         "performing",
-        "title",
-        "in",
-        "win",
-        "is",
+        "norris",
         "than",
-        "year"
+        "is",
+        "f1",
+        "title",
+        "gp",
+        "in",
+        "better",
+        "hungarian",
+        "proves"
       ],
       "title": "Hungarian GP win proves Lando Norris is performing better than in F1 title-winning year",
       "timestamp": "2026-07-26T18:19:28"
     },
     {
       "tokens": [
-        "into",
-        "piastri",
         "tears",
-        "sainz",
         "incident",
         "mclaren",
-        "strategy",
-        "carlos",
+        "piastri",
         "oscar",
+        "carlos",
+        "into",
+        "accepts",
+        "strategy",
         "unacceptable",
-        "accepts"
+        "sainz"
       ],
       "title": "Oscar Piastri tears into \"unacceptable\" Carlos Sainz incident, accepts McLaren strategy",
       "timestamp": "2026-07-26T16:20:18"
     },
     {
       "tokens": [
-        "2026",
-        "hungarian",
-        "f1",
-        "gp",
-        "as",
-        "piastri",
-        "lando",
-        "norris",
-        "frustrated",
-        "takes",
         "win",
         "retires",
+        "lando",
+        "piastri",
+        "2026",
         "oscar",
-        "first"
+        "norris",
+        "takes",
+        "first",
+        "frustrated",
+        "gp",
+        "as",
+        "hungarian",
+        "f1"
       ],
       "title": "F1 Hungarian GP: Lando Norris takes first 2026 win as frustrated Oscar Piastri retires",
       "timestamp": "2026-07-26T14:53:04"
@@ -2932,152 +2941,152 @@
     {
       "tokens": [
         "reveals",
-        "mayl\u00e4nder",
-        "f1",
-        "safety",
-        "new",
-        "to",
         "mercedes",
+        "to",
+        "new",
         "bernd",
         "s",
+        "upgrades",
+        "safety",
+        "mayl\u00e4nder",
         "car",
-        "upgrades"
+        "f1"
       ],
       "title": "Bernd Mayl\u00e4nder reveals upgrades to F1's new Mercedes safety car",
       "timestamp": "2026-07-25T19:11:57"
     },
     {
       "tokens": [
-        "qualifying",
-        "kimi",
-        "infringement",
-        "f1",
-        "hungarian",
-        "gp",
-        "grid",
-        "for",
-        "in",
         "drop",
+        "kimi",
         "yellow",
+        "flag",
+        "infringement",
+        "for",
+        "qualifying",
         "handed",
+        "gp",
         "antonelli",
-        "flag"
+        "in",
+        "hungarian",
+        "grid",
+        "f1"
       ],
       "title": "Kimi Antonelli handed grid drop for yellow flag infringement in F1 Hungarian GP qualifying",
       "timestamp": "2026-07-25T17:42:34"
     },
     {
       "tokens": [
-        "qualifying",
-        "ferrari",
-        "blame",
-        "hamilton",
-        "f1",
-        "hungarian",
-        "gp",
-        "our",
-        "lewis",
-        "for",
-        "in",
-        "takes",
         "it",
-        "penalty",
+        "our",
+        "ferrari",
+        "mistake",
+        "for",
         "s",
-        "mistake"
+        "takes",
+        "blame",
+        "penalty",
+        "qualifying",
+        "hamilton",
+        "lewis",
+        "gp",
+        "in",
+        "hungarian",
+        "f1"
       ],
       "title": "\"It's our mistake\" Ferrari takes blame for Lewis Hamilton penalty in F1 Hungarian GP qualifying",
       "timestamp": "2026-07-25T17:27:00"
     },
     {
       "tokens": [
-        "russell",
-        "engine",
-        "hungarian",
-        "f1",
-        "gp",
-        "grid",
-        "undergo",
+        "drop",
         "mercedes",
         "to",
-        "drop",
         "but",
-        "change",
+        "avoids",
+        "grid",
+        "russell",
         "george",
-        "avoids"
+        "undergo",
+        "engine",
+        "gp",
+        "hungarian",
+        "change",
+        "f1"
       ],
       "title": "George Russell to undergo Mercedes engine change, but avoids F1 Hungarian GP grid drop",
       "timestamp": "2026-07-25T16:56:35"
     },
     {
       "tokens": [
-        "qualifying",
-        "hamilton",
-        "piastri",
-        "f1",
-        "hungarian",
-        "gp",
-        "lewis",
-        "grid",
-        "for",
-        "in",
         "drop",
-        "oscar",
         "impeding",
+        "piastri",
+        "for",
+        "oscar",
+        "qualifying",
+        "slapped",
         "with",
-        "slapped"
+        "hamilton",
+        "lewis",
+        "gp",
+        "in",
+        "hungarian",
+        "grid",
+        "f1"
       ],
       "title": "Lewis Hamilton slapped with grid drop for impeding Oscar Piastri in F1 Hungarian GP qualifying",
       "timestamp": "2026-07-25T16:55:26"
     },
     {
       "tokens": [
-        "risks",
-        "hungary",
-        "qualifying",
-        "kimi",
-        "investigation",
-        "f1",
-        "as",
-        "grid",
-        "stewards",
         "drop",
+        "kimi",
+        "as",
+        "risks",
+        "qualifying",
+        "stewards",
         "launch",
-        "antonelli"
+        "antonelli",
+        "investigation",
+        "grid",
+        "hungary",
+        "f1"
       ],
       "title": "Kimi Antonelli risks grid drop as stewards launch Hungary F1 qualifying investigation",
       "timestamp": "2026-07-25T15:52:57"
     },
     {
       "tokens": [
-        "investigation",
-        "hamilton",
-        "hungarian",
-        "gp",
-        "lewis",
-        "under",
+        "impeding",
         "by",
         "stewards",
-        "impeding",
-        "over"
+        "hamilton",
+        "lewis",
+        "gp",
+        "investigation",
+        "under",
+        "over",
+        "hungarian"
       ],
       "title": "Lewis Hamilton under investigation by Hungarian GP stewards over impeding",
       "timestamp": "2026-07-25T15:47:27"
     },
     {
       "tokens": [
-        "biting",
         "pole",
-        "hungarian",
-        "f1",
-        "gp",
-        "pips",
-        "hamilton",
-        "lando",
-        "norris",
-        "lewis",
-        "position",
         "to",
-        "nail"
+        "lando",
+        "position",
+        "pips",
+        "norris",
+        "nail",
+        "hamilton",
+        "gp",
+        "lewis",
+        "hungarian",
+        "biting",
+        "f1"
       ],
       "title": "F1 Hungarian GP: Lando Norris pips Lewis Hamilton to nail biting pole position",
       "timestamp": "2026-07-25T15:15:40"
