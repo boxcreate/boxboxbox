@@ -7,7 +7,7 @@
     "publishedAt": "2026-09-24T20:25:38Z",
     "channelTitle": "F1 RaceLens",
     "channelScore": 0.5,
-    "viewCount": "273",
+    "viewCount": "1234",
     "likeCount": "3",
     "durationSec": 1031,
     "tags": [
@@ -23,7 +23,7 @@
     "publishedAt": "2026-09-10T10:47:09Z",
     "channelTitle": "Formula Neon F1",
     "channelScore": 0.5,
-    "viewCount": "107770",
+    "viewCount": "107797",
     "likeCount": "1507",
     "durationSec": 132,
     "tags": [
@@ -39,8 +39,8 @@
     "publishedAt": "2026-09-09T15:00:05Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "372212",
-    "likeCount": "11503",
+    "viewCount": "372420",
+    "likeCount": "11508",
     "durationSec": 156,
     "tags": [
       "NEWS"
@@ -55,7 +55,7 @@
     "publishedAt": "2026-09-08T18:30:15Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "416404",
+    "viewCount": "416523",
     "likeCount": "4050",
     "durationSec": 1167,
     "tags": [
@@ -71,8 +71,8 @@
     "publishedAt": "2026-09-08T16:20:09Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "1694170",
-    "likeCount": "20594",
+    "viewCount": "1694261",
+    "likeCount": "20595",
     "durationSec": 155,
     "tags": [
       "GENERAL"
@@ -87,7 +87,7 @@
     "publishedAt": "2026-09-06T21:20:39Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "122839",
+    "viewCount": "122858",
     "likeCount": "2536",
     "durationSec": 1517,
     "tags": [
@@ -103,7 +103,7 @@
     "publishedAt": "2026-09-06T18:14:24Z",
     "channelTitle": "Formula Insights",
     "channelScore": 0.5,
-    "viewCount": "19080",
+    "viewCount": "19083",
     "likeCount": "338",
     "durationSec": 922,
     "tags": [
@@ -119,8 +119,8 @@
     "publishedAt": "2026-09-06T16:25:41Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "16219",
-    "likeCount": "405",
+    "viewCount": "16221",
+    "likeCount": "406",
     "durationSec": 1369,
     "tags": [
       "ANALYSIS"
@@ -135,7 +135,7 @@
     "publishedAt": "2026-09-04T22:49:20Z",
     "channelTitle": "Formula Insights",
     "channelScore": 0.5,
-    "viewCount": "44280",
+    "viewCount": "44284",
     "likeCount": "517",
     "durationSec": 846,
     "tags": [
@@ -151,8 +151,8 @@
     "publishedAt": "2026-09-02T09:07:36Z",
     "channelTitle": "Formula Neon F1",
     "channelScore": 0.5,
-    "viewCount": "15598",
-    "likeCount": "516",
+    "viewCount": "15613",
+    "likeCount": "515",
     "durationSec": 124,
     "tags": [
       "ANALYSIS"
@@ -167,8 +167,8 @@
     "publishedAt": "2026-08-25T16:17:44Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "229315",
-    "likeCount": "3501",
+    "viewCount": "229396",
+    "likeCount": "3500",
     "durationSec": 1225,
     "tags": [
       "ANALYSIS"
@@ -183,7 +183,7 @@
     "publishedAt": "2026-08-23T19:34:22Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "50038",
+    "viewCount": "50039",
     "likeCount": "1492",
     "durationSec": 1127,
     "tags": [
@@ -199,7 +199,7 @@
     "publishedAt": "2026-08-23T16:52:11Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "6795",
+    "viewCount": "6799",
     "likeCount": "228",
     "durationSec": 1516,
     "tags": [
@@ -238,5 +238,22 @@
       "ANALYSIS"
     ],
     "url": "https://www.youtube.com/watch?v=psAp1lLvNcs"
+  },
+  {
+    "id": "mZtD6SLHXCw",
+    "title": "Breaking Down The Race Start & Russell's Troubles In Belgium | F1 TV Palmer's Analysis",
+    "description": "In this episode of Palmer's Analysis, Jolyon Palmer breaks down the chaotic race start and George Russell's unlucky crash the led to his opening lap retirement.\n\nFor more F1® videos, visit: https://www.Formula1.com\n\nVisit our store: https://f1store.formula1.com/\n\nFollow F1®:\nhttps://www.instagram.com/F1\nhttps://www.facebook.com/Formula1/\nhttps://www.twitter.com/F1\nhttps://www.twitch.tv/formula1\nhttps://www.tiktok.com/@f1\n\n#F1 #BelgianGP",
+    "thumbnail": "https://i.ytimg.com/vi/mZtD6SLHXCw/maxresdefault.jpg",
+    "publishedAt": "2026-07-21T17:30:36Z",
+    "channelTitle": "FORMULA 1",
+    "channelScore": 1,
+    "viewCount": "144473",
+    "likeCount": "3538",
+    "durationSec": 890,
+    "tags": [
+      "ANALYSIS",
+      "NEWS"
+    ],
+    "url": "https://www.youtube.com/watch?v=mZtD6SLHXCw"
   }
 ]
