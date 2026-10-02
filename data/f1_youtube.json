@@ -7,7 +7,7 @@
     "publishedAt": "2026-10-02T17:00:23Z",
     "channelTitle": "Racecraft Explained",
     "channelScore": 0.5,
-    "viewCount": "0",
+    "viewCount": "1",
     "likeCount": "0",
     "durationSec": 473,
     "tags": [
@@ -23,8 +23,8 @@
     "publishedAt": "2026-10-02T12:54:19Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "78253",
-    "likeCount": "1520",
+    "viewCount": "161577",
+    "likeCount": "2143",
     "durationSec": 739,
     "tags": [
       "TECH"
@@ -39,8 +39,8 @@
     "publishedAt": "2026-10-02T10:44:48Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "1216989",
-    "likeCount": "20728",
+    "viewCount": "1740778",
+    "likeCount": "24854",
     "durationSec": 241,
     "tags": [
       "FP"
@@ -55,8 +55,8 @@
     "publishedAt": "2026-10-02T10:10:41Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "243059",
-    "likeCount": "5409",
+    "viewCount": "351560",
+    "likeCount": "6534",
     "durationSec": 116,
     "tags": [
       "GENERAL"
@@ -71,8 +71,8 @@
     "publishedAt": "2026-10-02T07:07:12Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "2137318",
-    "likeCount": "32137",
+    "viewCount": "2767787",
+    "likeCount": "36061",
     "durationSec": 275,
     "tags": [
       "FP"
@@ -87,8 +87,8 @@
     "publishedAt": "2026-10-01T13:30:14Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "377182",
-    "likeCount": "4706",
+    "viewCount": "387726",
+    "likeCount": "4766",
     "durationSec": 843,
     "tags": [
       "GENERAL"
@@ -103,8 +103,8 @@
     "publishedAt": "2026-10-01T12:30:08Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "737644",
-    "likeCount": "7288",
+    "viewCount": "759891",
+    "likeCount": "7385",
     "durationSec": 1798,
     "tags": [
       "GENERAL"
@@ -119,8 +119,8 @@
     "publishedAt": "2026-09-30T18:00:39Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "117896",
-    "likeCount": "760",
+    "viewCount": "119374",
+    "likeCount": "768",
     "durationSec": 781,
     "tags": [
       "GENERAL"
@@ -135,8 +135,8 @@
     "publishedAt": "2026-09-30T11:30:23Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "154110",
-    "likeCount": "1224",
+    "viewCount": "155467",
+    "likeCount": "1233",
     "durationSec": 2200,
     "tags": [
       "GENERAL"
@@ -151,8 +151,8 @@
     "publishedAt": "2026-09-29T18:00:02Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "308565",
-    "likeCount": "3219",
+    "viewCount": "313392",
+    "likeCount": "3255",
     "durationSec": 591,
     "tags": [
       "GENERAL"
@@ -167,8 +167,8 @@
     "publishedAt": "2026-09-29T16:30:06Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "180131",
-    "likeCount": "1575",
+    "viewCount": "181248",
+    "likeCount": "1580",
     "durationSec": 564,
     "tags": [
       "ANALYSIS"
@@ -183,8 +183,8 @@
     "publishedAt": "2026-09-29T11:00:26Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "719456",
-    "likeCount": "11370",
+    "viewCount": "735197",
+    "likeCount": "11525",
     "durationSec": 1348,
     "tags": [
       "GENERAL"
@@ -199,8 +199,8 @@
     "publishedAt": "2026-09-28T14:00:36Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "293072",
-    "likeCount": "3368",
+    "viewCount": "294139",
+    "likeCount": "3380",
     "durationSec": 618,
     "tags": [
       "ONBOARD"
@@ -215,8 +215,8 @@
     "publishedAt": "2026-09-28T10:39:41Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "134885",
-    "likeCount": "856",
+    "viewCount": "135259",
+    "likeCount": "857",
     "durationSec": 3046,
     "tags": [
       "GENERAL"
@@ -231,13 +231,29 @@
     "publishedAt": "2026-09-27T13:57:03Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "938676",
-    "likeCount": "8586",
+    "viewCount": "940911",
+    "likeCount": "8599",
     "durationSec": 953,
     "tags": [
       "GENERAL"
     ],
     "url": "https://www.youtube.com/watch?v=QsAq3PygsKI"
+  },
+  {
+    "id": "_iGOvCTcU2I",
+    "title": "2026 F1 Baku race analysis by Peter Windsor",
+    "description": "Excluding the staged one-twos of the Michael Schumacher/Ferrari era, Baku produced the closest F1 finish since...Jerez, 1986, when Ayrton Senna's Lotus-Renault crossed the line only 0.014 ahead of Nigel Mansell's Williams-Honda. At Baku, 2026, Max Verstappen's Red Bull-RBPT-Ford was only 0.196 behind George Russell's winning Mercedes as they crossed the line, bringing to an end a race of two worlds - a tedious follow-the-leader procession in the first phase followed by a Safety Car-generated, dr",
+    "thumbnail": "https://i.ytimg.com/vi/_iGOvCTcU2I/maxresdefault.jpg",
+    "publishedAt": "2026-09-26T18:15:30Z",
+    "channelTitle": "Peter Windsor",
+    "channelScore": 0.5,
+    "viewCount": "77546",
+    "likeCount": "1770",
+    "durationSec": 1091,
+    "tags": [
+      "ANALYSIS"
+    ],
+    "url": "https://www.youtube.com/watch?v=_iGOvCTcU2I"
   },
   {
     "id": "TO1COhqjZbQ",
@@ -247,8 +263,8 @@
     "publishedAt": "2026-09-26T16:29:25Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "1222462",
-    "likeCount": "13859",
+    "viewCount": "1223586",
+    "likeCount": "13861",
     "durationSec": 849,
     "tags": [
       "REACTION"
@@ -263,7 +279,7 @@
     "publishedAt": "2026-09-26T13:44:57Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "7142",
+    "viewCount": "7153",
     "likeCount": "218",
     "durationSec": 803,
     "tags": [
@@ -279,8 +295,8 @@
     "publishedAt": "2026-09-26T13:30:51Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "8939914",
-    "likeCount": "101738",
+    "viewCount": "8969029",
+    "likeCount": "101805",
     "durationSec": 487,
     "tags": [
       "RACE"
@@ -295,8 +311,8 @@
     "publishedAt": "2026-09-26T11:11:41Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "424179",
-    "likeCount": "5539",
+    "viewCount": "425264",
+    "likeCount": "5543",
     "durationSec": 648,
     "tags": [
       "GENERAL"
@@ -311,7 +327,7 @@
     "publishedAt": "2026-09-25T17:17:13Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "636295",
+    "viewCount": "636616",
     "likeCount": "7910",
     "durationSec": 766,
     "tags": [
@@ -328,8 +344,8 @@
     "publishedAt": "2026-09-25T16:05:38Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "395598",
-    "likeCount": "7021",
+    "viewCount": "396244",
+    "likeCount": "7023",
     "durationSec": 133,
     "tags": [
       "QUALI",
@@ -345,8 +361,8 @@
     "publishedAt": "2026-09-25T14:27:38Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "448571",
-    "likeCount": "5489",
+    "viewCount": "448920",
+    "likeCount": "5490",
     "durationSec": 546,
     "tags": [
       "GENERAL"
@@ -361,8 +377,8 @@
     "publishedAt": "2026-09-25T13:38:55Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "6358935",
-    "likeCount": "67430",
+    "viewCount": "6361102",
+    "likeCount": "67438",
     "durationSec": 487,
     "tags": [
       "QUALI"
@@ -377,8 +393,8 @@
     "publishedAt": "2026-09-25T10:59:57Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "1100679",
-    "likeCount": "14156",
+    "viewCount": "1101527",
+    "likeCount": "14160",
     "durationSec": 299,
     "tags": [
       "FP"
@@ -393,7 +409,7 @@
     "publishedAt": "2026-09-25T08:47:30Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "580624",
+    "viewCount": "581156",
     "likeCount": "6619",
     "durationSec": 644,
     "tags": [
@@ -409,8 +425,8 @@
     "publishedAt": "2026-09-24T17:00:11Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "436911",
-    "likeCount": "4272",
+    "viewCount": "437446",
+    "likeCount": "4274",
     "durationSec": 1080,
     "tags": [
       "TECH"
@@ -425,8 +441,8 @@
     "publishedAt": "2026-09-24T15:13:37Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "2259524",
-    "likeCount": "27033",
+    "viewCount": "2260009",
+    "likeCount": "27035",
     "durationSec": 279,
     "tags": [
       "FP"
@@ -441,7 +457,7 @@
     "publishedAt": "2026-09-24T11:47:55Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "2388551",
+    "viewCount": "2389015",
     "likeCount": "28545",
     "durationSec": 287,
     "tags": [
@@ -457,7 +473,7 @@
     "publishedAt": "2026-09-23T17:14:31Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "370422",
+    "viewCount": "370468",
     "likeCount": "4911",
     "durationSec": 849,
     "tags": [
@@ -473,8 +489,8 @@
     "publishedAt": "2026-09-23T15:30:06Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "407509",
-    "likeCount": "4531",
+    "viewCount": "407622",
+    "likeCount": "4532",
     "durationSec": 1833,
     "tags": [
       "GENERAL"
@@ -484,13 +500,13 @@
   {
     "id": "OErzndTaQV0",
     "title": "Romain Grosjean: A Career Of Comebacks | F1 Beyond The Grid Podcast",
-    "description": "‘I did all I could to survive���. A fiery crash put his life in danger, but Romain Grosjean escaped the flames and returned to racing.\n\nAs Romain tells Tom Clarkson, the crash in Bahrain was not the first time he had to rebuild his career. After a seven-race spell in Formula 1 in 2008, he was dropped for the following season. Determined to find a way back, he took a step down the motorsport ladder to the junior category, GP2, became champion, and earned a Formula 1 comeback with the same team th",
+    "description": "‘I did all I could to survive’. A fiery crash put his life in danger, but Romain Grosjean escaped the flames and returned to racing.\n\nAs Romain tells Tom Clarkson, the crash in Bahrain was not the first time he had to rebuild his career. After a seven-race spell in Formula 1 in 2008, he was dropped for the following season. Determined to find a way back, he took a step down the motorsport ladder to the junior category, GP2, became champion, and earned a Formula 1 comeback with the same team that",
     "thumbnail": "https://i.ytimg.com/vi/OErzndTaQV0/maxresdefault.jpg",
     "publishedAt": "2026-09-23T14:00:13Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "144011",
-    "likeCount": "858",
+    "viewCount": "144284",
+    "likeCount": "860",
     "durationSec": 2713,
     "tags": [
       "GENERAL"
@@ -505,7 +521,7 @@
     "publishedAt": "2026-09-22T07:30:10Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "203476",
+    "viewCount": "203529",
     "likeCount": "1325",
     "durationSec": 3194,
     "tags": [
@@ -521,8 +537,8 @@
     "publishedAt": "2026-09-21T12:00:33Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "968118",
-    "likeCount": "10488",
+    "viewCount": "969436",
+    "likeCount": "10502",
     "durationSec": 1212,
     "tags": [
       "GENERAL"
@@ -537,7 +553,7 @@
     "publishedAt": "2026-09-16T18:00:18Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "200668",
+    "viewCount": "200706",
     "likeCount": "969",
     "durationSec": 780,
     "tags": [
@@ -553,7 +569,7 @@
     "publishedAt": "2026-09-16T15:30:06Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "232504",
+    "viewCount": "232550",
     "likeCount": "1887",
     "durationSec": 2625,
     "tags": [
@@ -569,8 +585,8 @@
     "publishedAt": "2026-09-16T09:00:26Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "680769",
-    "likeCount": "17297",
+    "viewCount": "681162",
+    "likeCount": "17301",
     "durationSec": 88,
     "tags": [
       "GENERAL"
@@ -585,8 +601,8 @@
     "publishedAt": "2026-09-15T17:00:38Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "272886",
-    "likeCount": "2260",
+    "viewCount": "272918",
+    "likeCount": "2261",
     "durationSec": 847,
     "tags": [
       "ANALYSIS"
@@ -601,8 +617,8 @@
     "publishedAt": "2026-09-15T13:00:06Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "273077",
-    "likeCount": "2585",
+    "viewCount": "273331",
+    "likeCount": "2586",
     "durationSec": 463,
     "tags": [
       "ONBOARD"
@@ -617,7 +633,7 @@
     "publishedAt": "2026-09-14T16:01:58Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "205672",
+    "viewCount": "205695",
     "likeCount": "935",
     "durationSec": 2636,
     "tags": [
@@ -633,7 +649,7 @@
     "publishedAt": "2026-09-14T13:59:48Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "740453",
+    "viewCount": "740639",
     "likeCount": "6748",
     "durationSec": 930,
     "tags": [
@@ -649,7 +665,7 @@
     "publishedAt": "2026-09-13T18:51:33Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "998552",
+    "viewCount": "998600",
     "likeCount": "11993",
     "durationSec": 534,
     "tags": [
@@ -665,7 +681,7 @@
     "publishedAt": "2026-09-13T16:12:10Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "11241",
+    "viewCount": "11244",
     "likeCount": "222",
     "durationSec": 1317,
     "tags": [
@@ -681,8 +697,8 @@
     "publishedAt": "2026-09-13T15:31:59Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "8262529",
-    "likeCount": "90544",
+    "viewCount": "8264710",
+    "likeCount": "90548",
     "durationSec": 485,
     "tags": [
       "RACE"
@@ -697,7 +713,7 @@
     "publishedAt": "2026-09-13T14:14:56Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "433385",
+    "viewCount": "433497",
     "likeCount": "4119",
     "durationSec": 629,
     "tags": [
@@ -713,7 +729,7 @@
     "publishedAt": "2026-09-13T11:49:22Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "411926",
+    "viewCount": "411967",
     "likeCount": "3579",
     "durationSec": 675,
     "tags": [
@@ -729,7 +745,7 @@
     "publishedAt": "2026-09-12T20:07:37Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "546456",
+    "viewCount": "546547",
     "likeCount": "5593",
     "durationSec": 507,
     "tags": [
@@ -745,7 +761,7 @@
     "publishedAt": "2026-09-12T18:19:48Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "782412",
+    "viewCount": "782504",
     "likeCount": "10074",
     "durationSec": 838,
     "tags": [
@@ -762,8 +778,8 @@
     "publishedAt": "2026-09-12T16:48:38Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "458426",
-    "likeCount": "8943",
+    "viewCount": "458543",
+    "likeCount": "8942",
     "durationSec": 129,
     "tags": [
       "QUALI",
@@ -779,7 +795,7 @@
     "publishedAt": "2026-09-12T16:01:35Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "671118",
+    "viewCount": "671219",
     "likeCount": "6385",
     "durationSec": 467,
     "tags": [
@@ -795,8 +811,8 @@
     "publishedAt": "2026-09-12T15:38:16Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "5483947",
-    "likeCount": "70995",
+    "viewCount": "5484315",
+    "likeCount": "70997",
     "durationSec": 481,
     "tags": [
       "QUALI"
@@ -811,8 +827,8 @@
     "publishedAt": "2026-09-12T13:00:06Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "1583047",
-    "likeCount": "17425",
+    "viewCount": "1583259",
+    "likeCount": "17426",
     "durationSec": 359,
     "tags": [
       "FP"
@@ -827,7 +843,7 @@
     "publishedAt": "2026-09-12T11:14:35Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "624233",
+    "viewCount": "624252",
     "likeCount": "5590",
     "durationSec": 341,
     "tags": [
@@ -843,7 +859,7 @@
     "publishedAt": "2026-09-11T19:30:31Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "441094",
+    "viewCount": "441205",
     "likeCount": "3691",
     "durationSec": 1043,
     "tags": [
@@ -859,8 +875,8 @@
     "publishedAt": "2026-09-10T10:47:09Z",
     "channelTitle": "Formula Neon F1",
     "channelScore": 0.5,
-    "viewCount": "108616",
-    "likeCount": "1520",
+    "viewCount": "108682",
+    "likeCount": "1521",
     "durationSec": 132,
     "tags": [
       "ANALYSIS"
@@ -875,8 +891,8 @@
     "publishedAt": "2026-09-09T15:00:05Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "378325",
-    "likeCount": "11556",
+    "viewCount": "378366",
+    "likeCount": "11558",
     "durationSec": 156,
     "tags": [
       "NEWS"
@@ -891,7 +907,7 @@
     "publishedAt": "2026-09-08T18:30:15Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "421959",
+    "viewCount": "422098",
     "likeCount": "4056",
     "durationSec": 1167,
     "tags": [
@@ -907,8 +923,8 @@
     "publishedAt": "2026-09-08T16:20:09Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "1696688",
-    "likeCount": "20636",
+    "viewCount": "1696795",
+    "likeCount": "20637",
     "durationSec": 155,
     "tags": [
       "GENERAL"
@@ -923,7 +939,7 @@
     "publishedAt": "2026-09-06T21:20:39Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "123054",
+    "viewCount": "123062",
     "likeCount": "2536",
     "durationSec": 1517,
     "tags": [
@@ -955,7 +971,7 @@
     "publishedAt": "2026-09-06T16:25:41Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "16259",
+    "viewCount": "16260",
     "likeCount": "406",
     "durationSec": 1369,
     "tags": [
@@ -980,70 +996,6 @@
     "url": "https://www.youtube.com/watch?v=CZnojpkoNE0"
   },
   {
-    "id": "4ArsG2MRwwM",
-    "title": "Italian GP 2026 Track Analysis 🇮🇹 | How Fast Is Monza?#F1 #ItalianGP #Monza",
-    "description": "Monza is the Temple of Speed. 🇮🇹🏎️\n\nThe Italian GP 2026 heads to one of the fastest and most iconic circuits on the F1 calendar. At 5.793 km and 11 corners, Monza is all about straight-line speed, heavy braking and finding every possible advantage.\n\n83% of the lap is spent flat-out, with more than half the lap distance above 300 km/h. Cars can reach around 348 km/h, while the biggest braking zone sees them drop from 347 km/h to just 73 km/h.\n\nWith DRS gone in 2026, Monza now features four Str",
-    "thumbnail": "https://i.ytimg.com/vi/4ArsG2MRwwM/maxresdefault.jpg",
-    "publishedAt": "2026-09-02T09:07:36Z",
-    "channelTitle": "Formula Neon F1",
-    "channelScore": 0.5,
-    "viewCount": "16019",
-    "likeCount": "519",
-    "durationSec": 124,
-    "tags": [
-      "ANALYSIS"
-    ],
-    "url": "https://www.youtube.com/watch?v=4ArsG2MRwwM"
-  },
-  {
-    "id": "t3bQZDeI_2A",
-    "title": "Max Verstappen's Home Heartbreak & The Top Six Battle | Jolyon Palmer's F1 TV Analysis",
-    "description": "Jolyon Palmer is back with analysis of the Dutch Grand Prix, including Max Verstappen's harrowing early crash and the battle for the top spots which followed,\n\nFor more F1® videos, visit: https://www.Formula1.com\n\nVisit our store: https://f1store.formula1.com/\n\nFollow F1®:\nhttps://www.instagram.com/F1\nhttps://www.facebook.com/Formula1/\nhttps://www.twitter.com/F1\nhttps://www.twitch.tv/formula1\nhttps://www.tiktok.com/@f1\n\n#F1#DutchGP",
-    "thumbnail": "https://i.ytimg.com/vi/t3bQZDeI_2A/maxresdefault.jpg",
-    "publishedAt": "2026-08-25T16:17:44Z",
-    "channelTitle": "FORMULA 1",
-    "channelScore": 1,
-    "viewCount": "232717",
-    "likeCount": "3501",
-    "durationSec": 1225,
-    "tags": [
-      "ANALYSIS"
-    ],
-    "url": "https://www.youtube.com/watch?v=t3bQZDeI_2A"
-  },
-  {
-    "id": "Vpk9mzzpS3M",
-    "title": "2026 F1 DUTCH GP Race analysis by Peter Windsor",
-    "description": "Although Max Verstappen crashed out of the Dutch GP on lap one, the race itself was far from flat; the Pirelli hard tyre saw to that. Its surprisingly high degradation rate shocked those who had predicted a straightforward medium-hard one-stop strategy and led to some intense racing for most of the distance. Lando Norris eventually won for McLaren, ahead of the two factory Mercedes of Kimi Antonelli and George Russell; Sir Lewis Hamilton and Charles Leclerc took the next two places for Ferrari (",
-    "thumbnail": "https://i.ytimg.com/vi/Vpk9mzzpS3M/hqdefault.jpg",
-    "publishedAt": "2026-08-23T19:34:22Z",
-    "channelTitle": "Peter Windsor",
-    "channelScore": 0.5,
-    "viewCount": "50096",
-    "likeCount": "1493",
-    "durationSec": 1127,
-    "tags": [
-      "ANALYSIS"
-    ],
-    "url": "https://www.youtube.com/watch?v=Vpk9mzzpS3M"
-  },
-  {
-    "id": "Tm6P4wkz8Po",
-    "title": "Driver Coach Race Analysis - 2026 F1 Dutch GP",
-    "description": "Driver Coach Race Analysis - 2026 F1 Dutch GP.\n\nLando Norris won the Dutch GP — but the race was decided long before the chequered flag.\n\nHe lost the lead at the start, and the question is: could he have defended it? Without taking an overly defensive posture, Lando allowed the opportunity to disappear before the race even settled.\n\nBut from there, the Dutch GP became a completely different battle.\n\nThis was a strategy race and a tyre-life race — managing degradation, choosing the right moments ",
-    "thumbnail": "https://i.ytimg.com/vi/Tm6P4wkz8Po/maxresdefault.jpg",
-    "publishedAt": "2026-08-23T16:52:11Z",
-    "channelTitle": "lowerlaptime",
-    "channelScore": 0.5,
-    "viewCount": "6817",
-    "likeCount": "228",
-    "durationSec": 1516,
-    "tags": [
-      "ANALYSIS"
-    ],
-    "url": "https://www.youtube.com/watch?v=Tm6P4wkz8Po"
-  },
-  {
     "id": "wvcjtF7TZkk",
     "title": "100% win rate... #f1 #formula1",
     "description": "",
@@ -1051,8 +1003,8 @@
     "publishedAt": "2026-02-09T19:08:30Z",
     "channelTitle": "ActuallyVen",
     "channelScore": 0.5,
-    "viewCount": "27444648",
-    "likeCount": "832999",
+    "viewCount": "27471780",
+    "likeCount": "833539",
     "durationSec": 88,
     "tags": [
       "GENERAL"
@@ -1067,8 +1019,8 @@
     "publishedAt": "2025-06-27T00:02:45Z",
     "channelTitle": "Jasiel Nuñez - Topic",
     "channelScore": 0.5,
-    "viewCount": "21416730",
-    "likeCount": "179747",
+    "viewCount": "21422746",
+    "likeCount": "179799",
     "durationSec": 186,
     "tags": [
       "GENERAL"
@@ -1083,8 +1035,8 @@
     "publishedAt": "2025-06-26T10:04:41Z",
     "channelTitle": "Hans Zimmer - Topic",
     "channelScore": 0.5,
-    "viewCount": "36410425",
-    "likeCount": "361186",
+    "viewCount": "36418682",
+    "likeCount": "361229",
     "durationSec": 194,
     "tags": [
       "GENERAL"
@@ -1099,8 +1051,8 @@
     "publishedAt": "2025-06-26T10:04:29Z",
     "channelTitle": "Tate McRae - Topic",
     "channelScore": 0.5,
-    "viewCount": "11157399",
-    "likeCount": "89898",
+    "viewCount": "11159780",
+    "likeCount": "89911",
     "durationSec": 143,
     "tags": [
       "GENERAL"
@@ -1115,8 +1067,8 @@
     "publishedAt": "2025-04-30T16:02:04Z",
     "channelTitle": "Don Toliver - Topic",
     "channelScore": 0.5,
-    "viewCount": "111665195",
-    "likeCount": "620713",
+    "viewCount": "111688467",
+    "likeCount": "620816",
     "durationSec": 210,
     "tags": [
       "GENERAL"
@@ -1131,8 +1083,8 @@
     "publishedAt": "2025-04-20T18:24:40Z",
     "channelTitle": "Mat Armstrong",
     "channelScore": 0.5,
-    "viewCount": "10722820",
-    "likeCount": "256626",
+    "viewCount": "10725598",
+    "likeCount": "256647",
     "durationSec": 3294,
     "tags": [
       "GENERAL"
@@ -1147,8 +1099,8 @@
     "publishedAt": "2025-04-01T02:23:23Z",
     "channelTitle": "WhistlinDiesel",
     "channelScore": 0.5,
-    "viewCount": "12714584",
-    "likeCount": "371966",
+    "viewCount": "12715791",
+    "likeCount": "371969",
     "durationSec": 804,
     "tags": [
       "GENERAL"
@@ -1163,8 +1115,8 @@
     "publishedAt": "2022-07-11T16:35:02Z",
     "channelTitle": "Xalf",
     "channelScore": 0.5,
-    "viewCount": "12152505",
-    "likeCount": "92368",
+    "viewCount": "12153381",
+    "likeCount": "92369",
     "durationSec": 263,
     "tags": [
       "GENERAL"
@@ -1179,8 +1131,8 @@
     "publishedAt": "2022-05-29T16:57:19Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "11241255",
-    "likeCount": "176807",
+    "viewCount": "11241508",
+    "likeCount": "176809",
     "durationSec": 424,
     "tags": [
       "RACE"
@@ -1195,8 +1147,8 @@
     "publishedAt": "2022-04-03T14:45:01Z",
     "channelTitle": "Extended Tracks",
     "channelScore": 0.5,
-    "viewCount": "21657740",
-    "likeCount": "159852",
+    "viewCount": "21660044",
+    "likeCount": "159861",
     "durationSec": 260,
     "tags": [
       "GENERAL"
@@ -1211,8 +1163,8 @@
     "publishedAt": "2022-03-20T17:30:37Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "13456987",
-    "likeCount": "241726",
+    "viewCount": "13457348",
+    "likeCount": "241729",
     "durationSec": 439,
     "tags": [
       "RACE"
@@ -1227,8 +1179,8 @@
     "publishedAt": "2021-12-17T17:05:28Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "23439401",
-    "likeCount": "298248",
+    "viewCount": "23440475",
+    "likeCount": "298255",
     "durationSec": 894,
     "tags": [
       "GENERAL"
@@ -1243,8 +1195,8 @@
     "publishedAt": "2021-12-12T16:58:38Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "31474072",
-    "likeCount": "510845",
+    "viewCount": "31477180",
+    "likeCount": "510851",
     "durationSec": 488,
     "tags": [
       "RACE"
@@ -1259,7 +1211,7 @@
     "publishedAt": "2021-12-12T15:50:36Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "13660343",
+    "viewCount": "13661618",
     "likeCount": "249843",
     "durationSec": 122,
     "tags": [
@@ -1275,8 +1227,8 @@
     "publishedAt": "2021-12-05T21:26:21Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "10176137",
-    "likeCount": "165914",
+    "viewCount": "10176544",
+    "likeCount": "165918",
     "durationSec": 431,
     "tags": [
       "RACE"
@@ -1291,8 +1243,8 @@
     "publishedAt": "2021-11-17T07:53:17Z",
     "channelTitle": "Animagraffs",
     "channelScore": 0.5,
-    "viewCount": "10236994",
-    "likeCount": "221390",
+    "viewCount": "10237614",
+    "likeCount": "221392",
     "durationSec": 1393,
     "tags": [
       "GENERAL"
@@ -1307,8 +1259,8 @@
     "publishedAt": "2021-08-01T17:15:00Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "11547453",
-    "likeCount": "181224",
+    "viewCount": "11547809",
+    "likeCount": "181228",
     "durationSec": 439,
     "tags": [
       "RACE"
@@ -1323,8 +1275,8 @@
     "publishedAt": "2021-06-06T15:10:16Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "16473512",
-    "likeCount": "272223",
+    "viewCount": "16473883",
+    "likeCount": "272224",
     "durationSec": 440,
     "tags": [
       "RACE"
@@ -1339,8 +1291,8 @@
     "publishedAt": "2021-03-28T18:50:02Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "11333885",
-    "likeCount": "157964",
+    "viewCount": "11334458",
+    "likeCount": "157966",
     "durationSec": 432,
     "tags": [
       "RACE"
@@ -1355,8 +1307,8 @@
     "publishedAt": "2021-01-04T20:00:11Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "12023589",
-    "likeCount": "134063",
+    "viewCount": "12024809",
+    "likeCount": "134075",
     "durationSec": 1119,
     "tags": [
       "RACE"
@@ -1371,8 +1323,8 @@
     "publishedAt": "2020-01-11T12:00:11Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "12300054",
-    "likeCount": "124299",
+    "viewCount": "12301311",
+    "likeCount": "124301",
     "durationSec": 1220,
     "tags": [
       "GENERAL"
@@ -1387,8 +1339,8 @@
     "publishedAt": "2020-01-10T20:00:14Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "13119017",
-    "likeCount": "146827",
+    "viewCount": "13119317",
+    "likeCount": "146829",
     "durationSec": 601,
     "tags": [
       "GENERAL"
@@ -1403,8 +1355,8 @@
     "publishedAt": "2019-10-04T13:00:41Z",
     "channelTitle": "Labrinth",
     "channelScore": 0.5,
-    "viewCount": "78556531",
-    "likeCount": "961565",
+    "viewCount": "78565878",
+    "likeCount": "961611",
     "durationSec": 92,
     "tags": [
       "GENERAL"
@@ -1419,8 +1371,8 @@
     "publishedAt": "2018-12-21T12:43:37Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "17117967",
-    "likeCount": "165387",
+    "viewCount": "17118410",
+    "likeCount": "165388",
     "durationSec": 250,
     "tags": [
       "GENERAL"
@@ -1435,8 +1387,8 @@
     "publishedAt": "2018-11-25T12:44:45Z",
     "channelTitle": "Brian Tyler (ARE WE DREAMING)",
     "channelScore": 0.5,
-    "viewCount": "46253975",
-    "likeCount": "611254",
+    "viewCount": "46260456",
+    "likeCount": "611279",
     "durationSec": 208,
     "tags": [
       "GENERAL"
@@ -1451,8 +1403,8 @@
     "publishedAt": "2018-03-19T21:32:39Z",
     "channelTitle": "Brian Tyler - Topic",
     "channelScore": 0.5,
-    "viewCount": "15035033",
-    "likeCount": "138854",
+    "viewCount": "15037041",
+    "likeCount": "138866",
     "durationSec": 195,
     "tags": [
       "GENERAL"
@@ -1467,8 +1419,8 @@
     "publishedAt": "2017-01-25T17:07:40Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "25172859",
-    "likeCount": "211829",
+    "viewCount": "25173364",
+    "likeCount": "211834",
     "durationSec": 69,
     "tags": [
       "GENERAL"
