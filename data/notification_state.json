@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "nuclear_sent": [
     {
       "id": "b25750238add4ba3ee5ff0a833c9fdba",
@@ -165,7 +165,7 @@
       "image": "https://cdn-4.motorsport.com/images/amp/0kZXp9V6/s6/untitled-design-24.jpg"
     }
   ],
-  "slot1_remaining": 0,
+  "slot1_remaining": 1,
   "slot2_remaining": 2,
   "digest_items": [
     {
@@ -206,7 +206,7 @@
       "url": "https://www.motorsport.com/f1/news/singapore-sprint-qualifying-chaos-leaves-f1-teams-furious-as-aston-martin-considers-protest/10863520/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "score": 90,
       "timestamp": "2026-10-09T15:31:23",
-      "image": "https://cdn-2.motorsport.com/images/amp/YBVjKKJY/s6/sergio-perez-cadillac-racing.jpg"
+      "image": "https://cdn-3.motorsport.com/images/amp/YBVjKKJY/s6/sergio-perez-cadillac-racing.jpg"
     },
     {
       "id": "28170a123739e7dc7e4f8b8722450b4d",
@@ -230,7 +230,7 @@
       "url": "https://www.motorsport.com/f1/news/max-verstappens-one-lap-gamble-and-what-pirelli-reveals-about-his-singapore-sprint-pole/10863559/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "score": 80,
       "timestamp": "2026-10-09T16:24:07",
-      "image": "https://cdn-5.motorsport.com/images/amp/2GdKNlEY/s6/max-verstappen-red-bull-racing.jpg"
+      "image": "https://cdn-4.motorsport.com/images/amp/2GdKNlEY/s6/max-verstappen-red-bull-racing.jpg"
     },
     {
       "id": "a0ad3c3bc85f4b3e8c263ac31a55bd34",
@@ -246,7 +246,7 @@
       "url": "https://www.motorsport.com/f1/news/fia-completes-investigation-into-f1-chaos-in-malaysia-and-reveals-next-steps/10862887/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "score": 72,
       "timestamp": "2026-10-08T08:09:25",
-      "image": "https://cdn-4.motorsport.com/images/amp/68VWnDB2/s6/nikolas-tombazis-fia.jpg"
+      "image": "https://cdn-8.motorsport.com/images/amp/68VWnDB2/s6/nikolas-tombazis-fia.jpg"
     },
     {
       "id": "715972a6e1eaab9f590d043ad32b1049",
@@ -262,7 +262,7 @@
       "url": "https://www.motorsport.com/f1/news/human-error-caused-singapore-gp-sprint-qualifying-glitch/10863489/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "score": 70,
       "timestamp": "2026-10-09T14:42:02",
-      "image": "https://cdn-4.motorsport.com/images/amp/YK15NNX0/s6/carlos-sainz-williams.jpg"
+      "image": "https://cdn-3.motorsport.com/images/amp/YK15NNX0/s6/carlos-sainz-williams.jpg"
     },
     {
       "id": "aa9fefd060dce58f8e627447c1589059",
@@ -318,7 +318,7 @@
       "url": "https://www.motorsport.com/f1/news/isack-hadjar-reveals-surprising-reaction-after-first-lap-with-red-bulls-own-f1-engine/10863284/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "score": 65,
       "timestamp": "2026-10-09T10:04:36",
-      "image": "https://cdn-5.motorsport.com/images/amp/YpbAdgZ0/s6/isack-hadjar-red-bull-racing.jpg"
+      "image": "https://cdn-3.motorsport.com/images/amp/YpbAdgZ0/s6/isack-hadjar-red-bull-racing.jpg"
     },
     {
       "id": "26220f73f796ed396c56f92710c30c61",
@@ -342,7 +342,7 @@
       "url": "https://www.motorsport.com/f1/news/mclaren-f1-announces-deal-with-major-company-behind-household-brands/10862954/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "score": 64,
       "timestamp": "2026-10-08T09:30:01",
-      "image": "https://cdn-9.motorsport.com/images/amp/2GdKNKoY/s6/untitled-design-59-2.jpg"
+      "image": "https://cdn-7.motorsport.com/images/amp/2GdKNKoY/s6/untitled-design-59-2.jpg"
     },
     {
       "id": "cb0a61cdd811dcfbb2d3a1dce29bb766",
@@ -382,7 +382,7 @@
       "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-singapore-gp/10863288/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "score": 55,
       "timestamp": "2026-10-09T13:58:49",
-      "image": "https://cdn-3.motorsport.com/images/amp/27Nogee0/s6/max-verstappen-red-bull-racing-3.jpg"
+      "image": "https://cdn-8.motorsport.com/images/amp/27Nogee0/s6/max-verstappen-red-bull-racing-3.jpg"
     },
     {
       "id": "6764e2853964aecb8d3cf6df41546f7a",
@@ -398,15 +398,7 @@
       "url": "https://www.motorsport.com/f1/news/it-should-be-banned-f1-drivers-still-divided-over-cooling-vests/10863319/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "score": 50,
       "timestamp": "2026-10-09T10:41:08",
-      "image": "https://cdn-1.motorsport.com/images/amp/0R7BDqv2/s6/george-russell-mercedes.jpg"
-    },
-    {
-      "id": "9ec7478e801c6f8dc320583de9645097",
-      "title": "Naomi Schiff questions Mercedes' George Russell F1 engine penalty decision",
-      "url": "https://www.motorsport.com/f1/news/naomi-schiff-questions-mercedes-george-russell-f1-engine-penalty-decision/10863171/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "score": 45,
-      "timestamp": "2026-10-08T20:57:20",
-      "image": "https://cdn-8.motorsport.com/images/amp/25dLQEk0/s6/untitled-design-44.jpg"
+      "image": "https://cdn-5.motorsport.com/images/amp/0R7BDqv2/s6/george-russell-mercedes.jpg"
     },
     {
       "id": "1af651eea5eee4a1ff6e2f0f187e5a53",
@@ -439,6 +431,14 @@
       "score": 40,
       "timestamp": "2026-10-03T10:44:23",
       "image": "https://cdn-6.motorsport.com/images/amp/YBVjyLKY/s6/lando-norris-mclaren.jpg"
+    },
+    {
+      "id": "9ec7478e801c6f8dc320583de9645097",
+      "title": "Naomi Schiff questions Mercedes' George Russell F1 engine penalty decision",
+      "url": "https://www.motorsport.com/f1/news/naomi-schiff-questions-mercedes-george-russell-f1-engine-penalty-decision/10863171/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "score": 36,
+      "timestamp": "2026-10-08T20:57:20",
+      "image": "https://cdn-7.motorsport.com/images/amp/25dLQEk0/s6/untitled-design-44.jpg"
     },
     {
       "id": "a52bf81d56768dec807841019d951fb3",
@@ -3014,46 +3014,47 @@
     "a52bf81d56768dec807841019d951fb3",
     "7fbf05ba0baa35c507e415fae5a24d20",
     "26990d0453461fd56d96bc77314f1c6e",
-    "6ced607691c951ac4398bb63c4cf5d7e"
+    "6ced607691c951ac4398bb63c4cf5d7e",
+    "322d84ada4c4e5e00e17e344f4d377d2"
   ],
   "schema_version": 3,
   "sent_urls": [
-    "https://www.motorsport.com/f1/news/f1-spanish-gp-race-report/10855406/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/kimi-antonellis-precious-moment-with-father-goes-viral-after-spanish-gp-win/10855648/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/red-bull-confirms-that-isack-hadjar-is-on-a-long-term-f1-contract/10858514/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/f1-bahrain-gp-in-malaysia-report/10861843/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/max-verstappen-reveals-why-red-bulls-engine-problem-in-baku-was-different-than-it-seemed/10858971/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/ferrari-too-late-to-prioritise-lewis-hamilton-in-f1-title-fight-says-jolyon-palmer/10854528/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/lando-norris-i-have-to-go-for-it-or-die-trying-to-win-2026-f1-title/10859120/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/red-bull-confirms-final-major-f1-upgrade-of-2026-for-max-verstappen-and-isack-hadjar/10858533/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/fia-f3/news/former-mclaren-f1-junior-ugo-ugochukwu-wins-formula-3-title/10855292/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/max-verstappen-explains-hectic-bahrain-gp-start-after-first-red-bull-win-of-2026/10861881/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/george-russell-should-feel-aggrieved-after-mercedes-monza-strategy-call-says-david-croft/10854045/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/fia-f2/news/f3-runner-up-freddie-slater-signs-f2-deal-for-2027-season/10856038/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
     "https://www.motorsport.com/f1/news/max-verstappen-backs-kimi-antonelli-after-baku-f1-qualifying-crash-people-forget-how-young-he-is/10859160/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
     "https://www.motorsport.com/f1/news/carlos-sainz-handed-azerbaijan-f1-grid-drop-for-yellow-flag-breach/10859007/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/lewis-hamilton-summoned-to-f1-stewards-after-azerbaijan-gp-incident/10858572/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/f1-spanish-gp-fp3-report/10854919/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/kimi-antonellis-spanish-gp-win-will-still-sting-says-james-hinchcliffe/10855886/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/f1/news/f1-pundit-slams-franco-colapintos-outrageous-baku-crash-but-rejects-lando-norriss-race-ban-call/10859752/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/f1-bahrain-gp-in-malaysia-report/10861843/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/max-verstappen-reveals-why-red-bulls-engine-problem-in-baku-was-different-than-it-seemed/10858971/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
     "https://www.motorsport.com/f1/news/f1-azerbaijan-gp-report/10859223/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-    "https://www.motorsport.com/fia-f2/news/f3-runner-up-freddie-slater-signs-f2-deal-for-2027-season/10856038/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+    "https://www.motorsport.com/f1/news/lando-norris-i-have-to-go-for-it-or-die-trying-to-win-2026-f1-title/10859120/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/kimi-antonellis-precious-moment-with-father-goes-viral-after-spanish-gp-win/10855648/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/ferrari-too-late-to-prioritise-lewis-hamilton-in-f1-title-fight-says-jolyon-palmer/10854528/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/f1-spanish-gp-race-report/10855406/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/red-bull-confirms-final-major-f1-upgrade-of-2026-for-max-verstappen-and-isack-hadjar/10858533/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/f1-pundit-slams-franco-colapintos-outrageous-baku-crash-but-rejects-lando-norriss-race-ban-call/10859752/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/lewis-hamilton-summoned-to-f1-stewards-after-azerbaijan-gp-incident/10858572/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/red-bull-confirms-that-isack-hadjar-is-on-a-long-term-f1-contract/10858514/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/max-verstappen-explains-hectic-bahrain-gp-start-after-first-red-bull-win-of-2026/10861881/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/george-russell-should-feel-aggrieved-after-mercedes-monza-strategy-call-says-david-croft/10854045/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/fia-f3/news/former-mclaren-f1-junior-ugo-ugochukwu-wins-formula-3-title/10855292/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/kimi-antonellis-spanish-gp-win-will-still-sting-says-james-hinchcliffe/10855886/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+    "https://www.motorsport.com/f1/news/f1-spanish-gp-fp3-report/10854919/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
   ],
   "title_fingerprints": [
     {
       "tokens": [
-        "bahrain",
-        "start",
-        "win",
-        "bull",
         "of",
-        "max",
         "verstappen",
         "2026",
-        "gp",
-        "red",
-        "hectic",
-        "after",
+        "bull",
+        "max",
         "explains",
+        "after",
+        "red",
+        "start",
+        "win",
+        "bahrain",
+        "hectic",
+        "gp",
         "first"
       ],
       "title": "Max Verstappen explains \"hectic\" Bahrain GP start after first Red Bull win of 2026",
@@ -3061,40 +3062,40 @@
     },
     {
       "tokens": [
-        "bahrain",
-        "malaysia",
-        "retires",
-        "max",
+        "chaos",
         "verstappen",
-        "in",
-        "george",
-        "gp",
-        "as",
-        "f1",
-        "wins",
         "russell",
-        "chaos"
+        "as",
+        "george",
+        "max",
+        "in",
+        "wins",
+        "bahrain",
+        "f1",
+        "malaysia",
+        "gp",
+        "retires"
       ],
       "title": "F1 Bahrain GP in Malaysia: Max Verstappen wins in chaos as George Russell retires",
       "timestamp": "2026-10-04T10:31:25"
     },
     {
       "tokens": [
-        "but",
-        "call",
-        "outrageous",
-        "baku",
-        "norris",
-        "slams",
+        "ban",
+        "colapinto",
         "pundit",
         "franco",
-        "f1",
-        "rejects",
+        "slams",
         "lando",
-        "s",
-        "colapinto",
+        "but",
+        "f1",
         "race",
-        "ban",
+        "rejects",
+        "s",
+        "norris",
+        "baku",
+        "outrageous",
+        "call",
         "crash"
       ],
       "title": "F1 pundit slams Franco Colapinto's \"outrageous\" Baku crash but rejects Lando Norris's race ban call",
@@ -3102,98 +3103,98 @@
     },
     {
       "tokens": [
-        "off",
-        "victory",
-        "george",
-        "late",
-        "max",
         "verstappen",
-        "charge",
-        "gp",
-        "azerbaijan",
-        "for",
-        "f1",
+        "russell",
+        "george",
+        "max",
         "holds",
-        "russell"
+        "late",
+        "azerbaijan",
+        "charge",
+        "victory",
+        "f1",
+        "off",
+        "for",
+        "gp"
       ],
       "title": "F1 Azerbaijan GP: George Russell holds off late Max Verstappen charge for victory",
       "timestamp": "2026-09-26T12:47:43"
     },
     {
       "tokens": [
-        "young",
-        "antonelli",
-        "max",
         "verstappen",
-        "baku",
-        "people",
+        "kimi",
         "backs",
+        "max",
+        "is",
+        "after",
+        "antonelli",
+        "he",
+        "people",
+        "young",
+        "f1",
         "forget",
         "how",
-        "is",
-        "f1",
-        "qualifying",
-        "after",
-        "he",
+        "baku",
         "crash",
-        "kimi"
+        "qualifying"
       ],
       "title": "Max Verstappen backs Kimi Antonelli after Baku F1 qualifying crash: \u201cPeople forget how young he is\u201d",
       "timestamp": "2026-09-26T08:47:28"
     },
     {
       "tokens": [
-        "win",
-        "or",
-        "trying",
-        "go",
         "2026",
-        "title",
+        "trying",
+        "or",
+        "lando",
+        "have",
+        "to",
+        "win",
+        "f1",
+        "it",
         "norris",
         "i",
-        "it",
-        "to",
+        "go",
         "for",
-        "f1",
-        "lando",
         "die",
-        "have"
+        "title"
       ],
       "title": "Lando Norris: \u2018I have to go for it or die trying\u2019 to win 2026 F1 title",
       "timestamp": "2026-09-26T07:37:46"
     },
     {
       "tokens": [
-        "yellow",
-        "flag",
-        "azerbaijan",
-        "carlos",
         "grid",
+        "breach",
+        "handed",
+        "azerbaijan",
+        "sainz",
+        "carlos",
         "f1",
+        "flag",
         "for",
         "drop",
-        "handed",
-        "sainz",
-        "breach"
+        "yellow"
       ],
       "title": "Carlos Sainz handed Azerbaijan F1 grid drop for yellow flag breach",
       "timestamp": "2026-09-25T16:07:53"
     },
     {
       "tokens": [
-        "bull",
-        "max",
+        "went",
         "verstappen",
-        "really",
+        "bull",
+        "reveals",
+        "max",
         "in",
+        "red",
+        "f1",
+        "really",
         "wrong",
         "baku",
-        "went",
-        "red",
-        "what",
-        "f1",
-        "reveals",
         "for",
+        "what",
         "qualifying"
       ],
       "title": "Max Verstappen reveals what really went wrong for Red Bull in Baku F1 qualifying",
@@ -3201,186 +3202,186 @@
     },
     {
       "tokens": [
-        "incident",
-        "lewis",
-        "gp",
         "hamilton",
+        "incident",
+        "summoned",
+        "after",
         "to",
+        "lewis",
+        "stewards",
         "azerbaijan",
         "f1",
-        "after",
-        "stewards",
-        "summoned"
+        "gp"
       ],
       "title": "Lewis Hamilton summoned to F1 stewards after Azerbaijan GP incident",
       "timestamp": "2026-09-24T13:45:58"
     },
     {
       "tokens": [
-        "bull",
         "of",
-        "max",
         "verstappen",
-        "final",
         "2026",
-        "isack",
         "hadjar",
+        "bull",
+        "isack",
+        "major",
+        "max",
         "upgrade",
         "red",
-        "for",
-        "f1",
         "confirms",
-        "major",
-        "and"
+        "f1",
+        "and",
+        "for",
+        "final"
       ],
       "title": "Red Bull confirms final major F1 upgrade of 2026 for Max Verstappen and Isack Hadjar",
       "timestamp": "2026-09-24T12:23:20"
     },
     {
       "tokens": [
-        "on",
-        "bull",
+        "hadjar",
         "that",
-        "a",
         "isack",
-        "term",
-        "long",
-        "red",
+        "bull",
         "is",
-        "f1",
-        "confirms",
         "contract",
-        "hadjar"
+        "red",
+        "long",
+        "confirms",
+        "a",
+        "f1",
+        "term",
+        "on"
       ],
       "title": "Red Bull confirms that Isack Hadjar is on a 'long-term' F1 contract",
       "timestamp": "2026-09-24T11:50:56"
     },
     {
       "tokens": [
-        "audi",
-        "signs",
-        "freddie",
-        "2027",
-        "junior",
-        "deal",
-        "f1",
         "f2",
+        "signs",
         "slater",
+        "deal",
+        "audi",
+        "f1",
+        "freddie",
         "for",
-        "season"
+        "season",
+        "junior",
+        "2027"
       ],
       "title": "Audi F1 junior Freddie Slater signs F2 deal for 2027 season",
       "timestamp": "2026-09-15T09:47:13"
     },
     {
       "tokens": [
+        "james",
+        "kimi",
+        "sting",
         "says",
-        "win",
         "hinchcliffe",
         "antonelli",
-        "will",
-        "gp",
+        "win",
         "spanish",
         "still",
-        "sting",
         "s",
-        "james",
-        "kimi"
+        "will",
+        "gp"
       ],
       "title": "Kimi Antonelli's Spanish GP win will still \"sting\", says James Hinchcliffe",
       "timestamp": "2026-09-15T08:00:03"
     },
     {
       "tokens": [
-        "win",
-        "with",
-        "precious",
-        "antonelli",
-        "goes",
-        "gp",
-        "spanish",
-        "moment",
-        "viral",
+        "kimi",
         "after",
-        "s",
+        "antonelli",
+        "precious",
+        "goes",
+        "spanish",
         "father",
-        "kimi"
+        "win",
+        "s",
+        "with",
+        "gp",
+        "viral",
+        "moment"
       ],
       "title": "Kimi Antonelli's \"precious\" moment with father goes viral after Spanish GP win",
       "timestamp": "2026-09-13T21:11:41"
     },
     {
       "tokens": [
+        "kimi",
+        "as",
         "vsc",
+        "wins",
         "antonelli",
+        "lando",
+        "spanish",
+        "f1",
+        "costs",
         "norris",
         "gp",
-        "spanish",
-        "again",
-        "as",
-        "f1",
-        "wins",
-        "lando",
-        "costs",
-        "kimi"
+        "again"
       ],
       "title": "F1 Spanish GP: Kimi Antonelli wins again as VSC costs Lando Norris",
       "timestamp": "2026-09-13T14:41:32"
     },
     {
       "tokens": [
-        "3",
-        "formula",
-        "ugo",
-        "title",
-        "junior",
-        "f1",
-        "wins",
         "ugochukwu",
         "former",
-        "mclaren"
+        "wins",
+        "f1",
+        "ugo",
+        "formula",
+        "mclaren",
+        "junior",
+        "3",
+        "title"
       ],
       "title": "Former McLaren F1 junior Ugo Ugochukwu wins Formula 3 title",
       "timestamp": "2026-09-13T09:02:45"
     },
     {
       "tokens": [
-        "following",
-        "crashes",
-        "bearman",
-        "fp3",
-        "lewis",
-        "gp",
-        "flagged",
-        "spanish",
-        "red",
-        "hamilton",
         "oliver",
-        "f1",
-        "antoneli",
         "kimi",
-        "tops"
+        "following",
+        "hamilton",
+        "red",
+        "lewis",
+        "bearman",
+        "antoneli",
+        "spanish",
+        "f1",
+        "tops",
+        "fp3",
+        "crashes",
+        "flagged",
+        "gp"
       ],
       "title": "F1 Spanish GP: Kimi Antoneli tops red-flagged FP3 following Lewis Hamilton, Oliver Bearman crashes",
       "timestamp": "2026-09-12T12:02:07"
     },
     {
       "tokens": [
+        "oliver",
+        "kimi",
         "following",
-        "crashes",
-        "bearman",
-        "fp3",
+        "hamilton",
+        "red",
         "antonelli",
         "lewis",
-        "gp",
-        "flagged",
         "spanish",
-        "red",
-        "hamilton",
-        "oliver",
+        "bearman",
         "f1",
-        "kimi",
-        "tops"
+        "tops",
+        "fp3",
+        "crashes",
+        "flagged",
+        "gp"
       ],
       "title": "F1 Spanish GP: Kimi Antonelli tops red-flagged FP3 following Lewis Hamilton, Oliver Bearman crashes",
       "timestamp": "2026-09-12T12:02:07"
@@ -3388,38 +3389,38 @@
     {
       "tokens": [
         "says",
-        "prioritise",
         "palmer",
-        "late",
-        "in",
-        "title",
-        "lewis",
         "hamilton",
+        "in",
+        "late",
         "to",
+        "prioritise",
+        "lewis",
+        "f1",
         "fight",
+        "jolyon",
         "ferrari",
         "too",
-        "f1",
-        "jolyon"
+        "title"
       ],
       "title": "Ferrari \"too late\" to prioritise Lewis Hamilton in F1 title fight, says Jolyon Palmer",
       "timestamp": "2026-09-11T13:09:10"
     },
     {
       "tokens": [
-        "says",
-        "should",
-        "monza",
+        "russell",
         "george",
-        "call",
+        "monza",
         "croft",
+        "strategy",
+        "says",
+        "aggrieved",
+        "after",
+        "should",
         "mercedes",
         "feel",
-        "david",
-        "aggrieved",
-        "russell",
-        "after",
-        "strategy"
+        "call",
+        "david"
       ],
       "title": "George Russell \"should feel aggrieved\" after Mercedes Monza strategy call, says David Croft",
       "timestamp": "2026-09-10T10:33:17"
