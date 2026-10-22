@@ -7,8 +7,8 @@
     "publishedAt": "2026-10-21T13:00:36Z",
     "channelTitle": "F1NewsLab",
     "channelScore": 0.5,
-    "viewCount": "1400",
-    "likeCount": "14",
+    "viewCount": "1561",
+    "likeCount": "15",
     "durationSec": 873,
     "tags": [
       "ANALYSIS"
@@ -23,7 +23,7 @@
     "publishedAt": "2026-10-21T04:05:46Z",
     "channelTitle": "PitWall Insights ",
     "channelScore": 0.5,
-    "viewCount": "585",
+    "viewCount": "753",
     "likeCount": "5",
     "durationSec": 129,
     "tags": [
@@ -39,8 +39,8 @@
     "publishedAt": "2026-10-13T16:00:10Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "372598",
-    "likeCount": "2983",
+    "viewCount": "373194",
+    "likeCount": "2990",
     "durationSec": 959,
     "tags": [
       "ANALYSIS"
@@ -55,7 +55,7 @@
     "publishedAt": "2026-10-09T21:07:01Z",
     "channelTitle": "Formula Neon F1",
     "channelScore": 0.5,
-    "viewCount": "36012",
+    "viewCount": "36040",
     "likeCount": "804",
     "durationSec": 165,
     "tags": [
@@ -71,7 +71,7 @@
     "publishedAt": "2026-10-09T18:19:00Z",
     "channelTitle": "THE RACE",
     "channelScore": 0.85,
-    "viewCount": "100127",
+    "viewCount": "100135",
     "likeCount": "2208",
     "durationSec": 75,
     "tags": [
@@ -103,8 +103,8 @@
     "publishedAt": "2026-10-06T17:15:14Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "393690",
-    "likeCount": "3178",
+    "viewCount": "393915",
+    "likeCount": "3177",
     "durationSec": 745,
     "tags": [
       "ANALYSIS"
@@ -119,8 +119,8 @@
     "publishedAt": "2026-10-05T16:26:23Z",
     "channelTitle": "THE RACE",
     "channelScore": 0.85,
-    "viewCount": "483382",
-    "likeCount": "3901",
+    "viewCount": "483836",
+    "likeCount": "3903",
     "durationSec": 614,
     "tags": [
       "ANALYSIS"
@@ -135,7 +135,7 @@
     "publishedAt": "2026-10-04T18:22:30Z",
     "channelTitle": "THE RACE",
     "channelScore": 0.85,
-    "viewCount": "847830",
+    "viewCount": "847881",
     "likeCount": "8028",
     "durationSec": 694,
     "tags": [
@@ -151,7 +151,7 @@
     "publishedAt": "2026-10-04T13:09:24Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "167139",
+    "viewCount": "167152",
     "likeCount": "2724",
     "durationSec": 810,
     "tags": [
@@ -167,7 +167,7 @@
     "publishedAt": "2026-10-04T11:50:26Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "36690",
+    "viewCount": "36691",
     "likeCount": "540",
     "durationSec": 1068,
     "tags": [
@@ -183,7 +183,7 @@
     "publishedAt": "2026-10-03T09:44:16Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "13928",
+    "viewCount": "13929",
     "likeCount": "317",
     "durationSec": 883,
     "tags": [
@@ -200,7 +200,7 @@
     "publishedAt": "2026-10-02T13:24:43Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "67728",
+    "viewCount": "67733",
     "likeCount": "1095",
     "durationSec": 740,
     "tags": [
@@ -216,13 +216,29 @@
     "publishedAt": "2026-10-02T01:58:54Z",
     "channelTitle": "Formula Neon F1",
     "channelScore": 0.5,
-    "viewCount": "193538",
-    "likeCount": "4766",
+    "viewCount": "194472",
+    "likeCount": "4784",
     "durationSec": 100,
     "tags": [
       "ANALYSIS"
     ],
     "url": "https://www.youtube.com/watch?v=qucpDEPqLss"
+  },
+  {
+    "id": "_iGOvCTcU2I",
+    "title": "2026 F1 Baku race analysis by Peter Windsor",
+    "description": "Excluding the staged one-twos of the Michael Schumacher/Ferrari era, Baku produced the closest F1 finish since...Jerez, 1986, when Ayrton Senna's Lotus-Renault crossed the line only 0.014 ahead of Nigel Mansell's Williams-Honda. At Baku, 2026, Max Verstappen's Red Bull-RBPT-Ford was only 0.196 behind George Russell's winning Mercedes as they crossed the line, bringing to an end a race of two worlds - a tedious follow-the-leader procession in the first phase followed by a Safety Car-generated, dr",
+    "thumbnail": "https://i.ytimg.com/vi/_iGOvCTcU2I/maxresdefault.jpg",
+    "publishedAt": "2026-09-26T18:15:30Z",
+    "channelTitle": "Peter Windsor",
+    "channelScore": 0.5,
+    "viewCount": "79041",
+    "likeCount": "1776",
+    "durationSec": 1091,
+    "tags": [
+      "ANALYSIS"
+    ],
+    "url": "https://www.youtube.com/watch?v=_iGOvCTcU2I"
   },
   {
     "id": "3s7pwUmrnrI",
@@ -239,21 +255,5 @@
       "ANALYSIS"
     ],
     "url": "https://www.youtube.com/watch?v=3s7pwUmrnrI"
-  },
-  {
-    "id": "_iGOvCTcU2I",
-    "title": "2026 F1 Baku race analysis by Peter Windsor",
-    "description": "Excluding the staged one-twos of the Michael Schumacher/Ferrari era, Baku produced the closest F1 finish since...Jerez, 1986, when Ayrton Senna's Lotus-Renault crossed the line only 0.014 ahead of Nigel Mansell's Williams-Honda. At Baku, 2026, Max Verstappen's Red Bull-RBPT-Ford was only 0.196 behind George Russell's winning Mercedes as they crossed the line, bringing to an end a race of two worlds - a tedious follow-the-leader procession in the first phase followed by a Safety Car-generated, dr",
-    "thumbnail": "https://i.ytimg.com/vi/_iGOvCTcU2I/maxresdefault.jpg",
-    "publishedAt": "2026-09-26T18:15:30Z",
-    "channelTitle": "Peter Windsor",
-    "channelScore": 0.5,
-    "viewCount": "79039",
-    "likeCount": "1776",
-    "durationSec": 1091,
-    "tags": [
-      "ANALYSIS"
-    ],
-    "url": "https://www.youtube.com/watch?v=_iGOvCTcU2I"
   }
 ]
