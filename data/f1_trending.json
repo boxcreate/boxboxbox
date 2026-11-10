@@ -7,8 +7,8 @@
     "publishedAt": "2019-10-04T13:00:41Z",
     "channelTitle": "Labrinth",
     "channelScore": 0.5,
-    "viewCount": "79848599",
-    "likeCount": "966172",
+    "viewCount": "79859199",
+    "likeCount": "966208",
     "durationSec": 92,
     "tags": [
       "GENERAL"
@@ -23,8 +23,8 @@
     "publishedAt": "2018-11-25T12:44:45Z",
     "channelTitle": "Brian Tyler (ARE WE DREAMING)",
     "channelScore": 0.5,
-    "viewCount": "47272898",
-    "likeCount": "616018",
+    "viewCount": "47280128",
+    "likeCount": "616067",
     "durationSec": 208,
     "tags": [
       "GENERAL"
@@ -39,8 +39,8 @@
     "publishedAt": "2026-01-30T00:49:03Z",
     "channelTitle": "ActuallyVen",
     "channelScore": 0.5,
-    "viewCount": "49108914",
-    "likeCount": "1456860",
+    "viewCount": "49173924",
+    "likeCount": "1458234",
     "durationSec": 98,
     "tags": [
       "GENERAL"
@@ -55,8 +55,8 @@
     "publishedAt": "2025-06-27T00:02:45Z",
     "channelTitle": "Jasiel Nuñez - Topic",
     "channelScore": 0.5,
-    "viewCount": "22232916",
-    "likeCount": "185856",
+    "viewCount": "22239584",
+    "likeCount": "185897",
     "durationSec": 186,
     "tags": [
       "GENERAL"
@@ -64,20 +64,20 @@
     "url": "https://www.youtube.com/watch?v=NGtBx-gpq3I"
   },
   {
-    "id": "wvcjtF7TZkk",
-    "title": "100% win rate... #f1 #formula1",
-    "description": "",
-    "thumbnail": "https://i.ytimg.com/vi/wvcjtF7TZkk/maxresdefault.jpg",
-    "publishedAt": "2026-02-09T19:08:30Z",
+    "id": "hIIV1dEJuYg",
+    "title": "The Secret that made McLaren Fastest in 2025 (Part 3).... #f1   #loophole   #racing",
+    "description": "This loophole was very complicated and this is a gross oversimplification... Enjoy!!!",
+    "thumbnail": "https://i.ytimg.com/vi/hIIV1dEJuYg/maxresdefault.jpg",
+    "publishedAt": "2026-08-27T16:26:44Z",
     "channelTitle": "ActuallyVen",
     "channelScore": 0.5,
-    "viewCount": "30804043",
-    "likeCount": "915313",
-    "durationSec": 88,
+    "viewCount": "21124836",
+    "likeCount": "724781",
+    "durationSec": 163,
     "tags": [
       "GENERAL"
     ],
-    "url": "https://www.youtube.com/watch?v=wvcjtF7TZkk"
+    "url": "https://www.youtube.com/watch?v=hIIV1dEJuYg"
   },
   {
     "id": "_QmiNC9d788",
@@ -87,8 +87,8 @@
     "publishedAt": "2018-03-19T21:32:39Z",
     "channelTitle": "Brian Tyler - Topic",
     "channelScore": 0.5,
-    "viewCount": "15451525",
-    "likeCount": "141700",
+    "viewCount": "15454514",
+    "likeCount": "141714",
     "durationSec": 195,
     "tags": [
       "GENERAL"
@@ -103,8 +103,8 @@
     "publishedAt": "2026-03-08T06:19:19Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "12585519",
-    "likeCount": "221929",
+    "viewCount": "12587343",
+    "likeCount": "221936",
     "durationSec": 491,
     "tags": [
       "RACE"
@@ -119,13 +119,45 @@
     "publishedAt": "2022-07-11T16:35:02Z",
     "channelTitle": "Xalf",
     "channelScore": 0.5,
-    "viewCount": "12299352",
-    "likeCount": "92875",
+    "viewCount": "12300600",
+    "likeCount": "92885",
     "durationSec": 263,
     "tags": [
       "GENERAL"
     ],
     "url": "https://www.youtube.com/watch?v=QwMtRUVyAng"
+  },
+  {
+    "id": "57VVjxsK_cU",
+    "title": "Extended Race Highlights | 2020 Turkish Grand Prix",
+    "description": "It had us on the edge of our seats from the very first lap to the last! Relive all the drama from a remarkable race which F1 fans voted the best of the season.\n\nFor more F1® videos, visit http://www.Formula1.com\n\nFollow F1®:\nhttp://www.instagram.com/F1\nhttps://www.facebook.com/Formula1/\nhttp://www.twitter.com/F1\nhttps://www.twitch.tv/formula1\nhttps://www.tiktok.com/@f1\n\n#F1 #TurkishGP",
+    "thumbnail": "https://i.ytimg.com/vi/57VVjxsK_cU/maxresdefault.jpg",
+    "publishedAt": "2021-01-04T20:00:11Z",
+    "channelTitle": "FORMULA 1",
+    "channelScore": 1,
+    "viewCount": "12119920",
+    "likeCount": "134652",
+    "durationSec": 1119,
+    "tags": [
+      "RACE"
+    ],
+    "url": "https://www.youtube.com/watch?v=57VVjxsK_cU"
+  },
+  {
+    "id": "wvcjtF7TZkk",
+    "title": "100% win rate... #f1 #formula1",
+    "description": "",
+    "thumbnail": "https://i.ytimg.com/vi/wvcjtF7TZkk/maxresdefault.jpg",
+    "publishedAt": "2026-02-09T19:08:30Z",
+    "channelTitle": "ActuallyVen",
+    "channelScore": 0.5,
+    "viewCount": "30832142",
+    "likeCount": "916056",
+    "durationSec": 88,
+    "tags": [
+      "GENERAL"
+    ],
+    "url": "https://www.youtube.com/watch?v=wvcjtF7TZkk"
   },
   {
     "id": "lYkVZpTjuOs",
@@ -135,8 +167,8 @@
     "publishedAt": "2025-06-26T10:04:29Z",
     "channelTitle": "Tate McRae - Topic",
     "channelScore": 0.5,
-    "viewCount": "11625463",
-    "likeCount": "93559",
+    "viewCount": "11628571",
+    "likeCount": "93575",
     "durationSec": 143,
     "tags": [
       "GENERAL"
@@ -151,8 +183,8 @@
     "publishedAt": "2021-03-28T18:50:02Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "11431438",
-    "likeCount": "158178",
+    "viewCount": "11432641",
+    "likeCount": "158179",
     "durationSec": 432,
     "tags": [
       "RACE"
@@ -167,8 +199,8 @@
     "publishedAt": "2024-12-19T16:00:39Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "11280984",
-    "likeCount": "59266",
+    "viewCount": "11283224",
+    "likeCount": "59268",
     "durationSec": 11448,
     "tags": [
       "RACE"
@@ -183,8 +215,8 @@
     "publishedAt": "2024-11-03T18:43:53Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "10174173",
-    "likeCount": "178445",
+    "viewCount": "10175981",
+    "likeCount": "178447",
     "durationSec": 490,
     "tags": [
       "RACE"
@@ -199,8 +231,8 @@
     "publishedAt": "2019-09-08T18:37:31Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "9942105",
-    "likeCount": "138538",
+    "viewCount": "9942343",
+    "likeCount": "138540",
     "durationSec": 399,
     "tags": [
       "RACE"
@@ -215,8 +247,8 @@
     "publishedAt": "2014-03-29T13:04:54Z",
     "channelTitle": "Marchettino",
     "channelScore": 0.5,
-    "viewCount": "9903968",
-    "likeCount": "66859",
+    "viewCount": "9904592",
+    "likeCount": "66861",
     "durationSec": 239,
     "tags": [
       "GENERAL"
@@ -231,8 +263,8 @@
     "publishedAt": "2025-05-25T15:56:03Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "9872221",
-    "likeCount": "138427",
+    "viewCount": "9873836",
+    "likeCount": "138435",
     "durationSec": 493,
     "tags": [
       "RACE"
@@ -247,8 +279,8 @@
     "publishedAt": "2026-03-15T09:38:15Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "9842161",
-    "likeCount": "202233",
+    "viewCount": "9842968",
+    "likeCount": "202238",
     "durationSec": 494,
     "tags": [
       "RACE"
@@ -263,8 +295,8 @@
     "publishedAt": "2026-03-29T07:47:12Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "9610865",
-    "likeCount": "166658",
+    "viewCount": "9611855",
+    "likeCount": "166663",
     "durationSec": 489,
     "tags": [
       "RACE"
@@ -279,8 +311,8 @@
     "publishedAt": "2024-10-07T15:00:30Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "10058367",
-    "likeCount": "68280",
+    "viewCount": "10068939",
+    "likeCount": "68291",
     "durationSec": 714,
     "tags": [
       "GENERAL"
@@ -295,8 +327,8 @@
     "publishedAt": "2025-03-13T19:03:08Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "9255830",
-    "likeCount": "180979",
+    "viewCount": "9256622",
+    "likeCount": "180981",
     "durationSec": 149,
     "tags": [
       "GENERAL"
@@ -311,8 +343,8 @@
     "publishedAt": "2026-02-03T20:52:14Z",
     "channelTitle": "ActuallyVen",
     "channelScore": 0.5,
-    "viewCount": "16382503",
-    "likeCount": "533967",
+    "viewCount": "16405576",
+    "likeCount": "534642",
     "durationSec": 102,
     "tags": [
       "GENERAL"
@@ -327,7 +359,7 @@
     "publishedAt": "2025-09-03T06:04:38Z",
     "channelTitle": "Sann1e",
     "channelScore": 0.5,
-    "viewCount": "9605959",
+    "viewCount": "9613308",
     "likeCount": "0",
     "durationSec": 211,
     "tags": [
@@ -343,8 +375,8 @@
     "publishedAt": "2025-05-10T15:00:06Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "8929527",
-    "likeCount": "269759",
+    "viewCount": "8934236",
+    "likeCount": "269790",
     "durationSec": 945,
     "tags": [
       "GENERAL"
@@ -359,8 +391,8 @@
     "publishedAt": "2024-07-12T16:00:02Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "8755624",
-    "likeCount": "61436",
+    "viewCount": "8759696",
+    "likeCount": "61445",
     "durationSec": 710,
     "tags": [
       "GENERAL"
@@ -375,8 +407,8 @@
     "publishedAt": "2026-05-03T20:06:03Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "8843375",
-    "likeCount": "140938",
+    "viewCount": "8844548",
+    "likeCount": "140947",
     "durationSec": 504,
     "tags": [
       "RACE"
@@ -391,8 +423,8 @@
     "publishedAt": "2026-06-14T15:35:17Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "8641671",
-    "likeCount": "178910",
+    "viewCount": "8643332",
+    "likeCount": "178916",
     "durationSec": 482,
     "tags": [
       "RACE"
@@ -407,7 +439,7 @@
     "publishedAt": "2026-05-24T22:40:14Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "8466045",
+    "viewCount": "8467088",
     "likeCount": "156862",
     "durationSec": 494,
     "tags": [
@@ -423,8 +455,8 @@
     "publishedAt": "2025-11-23T06:18:34Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "8320381",
-    "likeCount": "134968",
+    "viewCount": "8323012",
+    "likeCount": "134978",
     "durationSec": 484,
     "tags": [
       "RACE"
@@ -440,44 +472,12 @@
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
     "viewCount": "0",
-    "likeCount": "254131",
+    "likeCount": "254138",
     "durationSec": 7439,
     "tags": [
       "GENERAL"
     ],
     "url": "https://www.youtube.com/watch?v=Mw1r6DwYy-g"
-  },
-  {
-    "id": "lsb2k8yEazA",
-    "title": "Formula 1 | F1 Live Comes to London for the British Grand Prix",
-    "description": "Formula One Comes to London, 2017, Subscribe to my channel: www.youtube.com/c/F1YMS \n\nInstagram: https://www.instagram.com/f1yms\nTwitter: https://twitter.com/f1yms",
-    "thumbnail": "https://i.ytimg.com/vi/lsb2k8yEazA/maxresdefault.jpg",
-    "publishedAt": "2017-07-12T21:17:13Z",
-    "channelTitle": "F1 YMS",
-    "channelScore": 0.5,
-    "viewCount": "8008744",
-    "likeCount": "66328",
-    "durationSec": 328,
-    "tags": [
-      "GENERAL"
-    ],
-    "url": "https://www.youtube.com/watch?v=lsb2k8yEazA"
-  },
-  {
-    "id": "YBez2FYTubg",
-    "title": "Sade - Smooth Operator (Lyrics) | Carlos Sainz Jr. | Formula 1 Edit",
-    "description": "Ferrari driver, number 55, Smooth Operator.\n\nInstagram: @/inchidentontherace\nTwitter: @/Phoenix_Tifosi\n\nSong: Sade - Smooth Operator (2011 Remastered)\n\n#formula1 #f1 #f1edit #formula #formulaone #carlossainz #carlossainzjr #sainz #ferrari #scuderiaferrari #forzaferrari #essereferrari #mclaren\n\n\nCarlos Sainz edit, Smooth Operator, Sade, Formula 1\n\nLyrics:\n\nDiamond life, lover boy\nHe move in space with minimum waste and maximum joy\nCity lights and business nights\nWhen you require streetcar desire ",
-    "thumbnail": "https://i.ytimg.com/vi/YBez2FYTubg/maxresdefault.jpg",
-    "publishedAt": "2024-03-12T16:08:06Z",
-    "channelTitle": "Inchident On The Race",
-    "channelScore": 0.5,
-    "viewCount": "8064134",
-    "likeCount": "93280",
-    "durationSec": 257,
-    "tags": [
-      "GENERAL"
-    ],
-    "url": "https://www.youtube.com/watch?v=YBez2FYTubg"
   },
   {
     "id": "ipOT9ruRobc",
@@ -487,8 +487,8 @@
     "publishedAt": "2026-06-07T16:21:43Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "8006883",
-    "likeCount": "136005",
+    "viewCount": "8008412",
+    "likeCount": "136009",
     "durationSec": 500,
     "tags": [
       "RACE"
