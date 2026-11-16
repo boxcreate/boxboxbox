@@ -1,5 +1,21 @@
 [
   {
+    "id": "x5sCtf2NHQA",
+    "title": "Accuracy, Precision, Recall and F1 Explained with Football Data",
+    "description": "Accuracy, precision, recall, specificity and the F1 score explained with football data: the numbers that summarize a confusion matrix.\nWe compute each of them from the four cells, add balanced accuracy, and see why accuracy can mislead when a class is rare.\n\nChapters\n0:00 Six players and their confusion matrix\n2:15 Accuracy and error rate\n2:54 Precision, recall and specificity\n4:12 F1 score and balanced accuracy\n5:21 A lower threshold changes the numbers\n7:52 All players, and the base rate\n9:56 ",
+    "thumbnail": "https://i.ytimg.com/vi/x5sCtf2NHQA/maxresdefault.jpg",
+    "publishedAt": "2026-11-09T13:20:55Z",
+    "channelTitle": "Prof. Markus Weinmann",
+    "channelScore": 0.5,
+    "viewCount": "9",
+    "likeCount": "1",
+    "durationSec": 641,
+    "tags": [
+      "ANALYSIS"
+    ],
+    "url": "https://www.youtube.com/watch?v=x5sCtf2NHQA"
+  },
+  {
     "id": "NW_DV7MWfpM",
     "title": "2026 F1 Brazilian GP QUALIFYING Analysis",
     "description": "2026 F1 Brazilian GP QUALIFYING Analysis \n\nCHAPTERS:\n00:00 Introduction & Thoughts\n00:18 FP3 Insights \n05:00 Wet Quali Q1 Discussion\n06:46 Wet Lines\n09:51 Camara Crash & BB\n11:00 Mercedes Q3 & RUS v NOR\n14:33 Your Comments\n-------------------------------------------------------------------------\n❓ Have a question or thought? Drop it in the comments for me!\n👍 Like the video? Give it a thumbs up!\n🔔 Like this content and insight? Subscribe to my channel and turn the bell icon on!\n----------------",
@@ -7,8 +23,8 @@
     "publishedAt": "2026-11-08T00:29:33Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "7517",
-    "likeCount": "174",
+    "viewCount": "7518",
+    "likeCount": "175",
     "durationSec": 898,
     "tags": [
       "QUALI",
@@ -17,20 +33,20 @@
     "url": "https://www.youtube.com/watch?v=NW_DV7MWfpM"
   },
   {
-    "id": "uW-vTPB5O_s",
-    "title": "Aston Martins Mexico DNF's Explained",
-    "description": "Aston Martin had a torrid time at the 2026 F1 Mexican Grand Prix, here's why... \n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCihjJgRm3Th-quKmTW-9AwQ/join\n\nDISCORD: https://discord.gg/hUwWmvrc4N\nTIKTOK: https://www.tiktok.com/@fp1will?lang=en\nTWITCH: https://www.twitch.tv/fp1will\nPATREON: https://www.patreon.com/FP1\nTWITTER: https://twitter.com/FP1Will\nINSTAGRAM: https://www.instagram.com/fp1will/\nDon't forget to LIKE, COMMENT and SUBSCRIBE for weekly F1 content!\n\n",
-    "thumbnail": "https://i.ytimg.com/vi/uW-vTPB5O_s/maxresdefault.jpg",
-    "publishedAt": "2026-11-05T13:00:11Z",
-    "channelTitle": "FP1Will",
+    "id": "Jkrn-zJ2EG8",
+    "title": "F1 Explained in 60 Seconds: The ULTIMATE Beginner's Guide",
+    "description": "New to Formula 1? We explain the core concepts of an F1 race weekend so you can follow the action with confidence. 🏁\n\nUnderstanding how the sport works can be overwhelming, but we break down the essentials from track conditions to the grid. Whether you are curious about how tire choices influence performance in wet or dry weather, or how teams utilize the undercut strategy to gain a competitive advantage, this guide covers the basics for every new fan.\n\nWe also look at essential safety car proc",
+    "thumbnail": "https://i.ytimg.com/vi/Jkrn-zJ2EG8/maxresdefault.jpg",
+    "publishedAt": "2026-11-05T13:23:02Z",
+    "channelTitle": "Beyond Track Limits",
     "channelScore": 0.5,
-    "viewCount": "75197",
-    "likeCount": "1735",
-    "durationSec": 75,
+    "viewCount": "304",
+    "likeCount": "8",
+    "durationSec": 61,
     "tags": [
       "ANALYSIS"
     ],
-    "url": "https://www.youtube.com/watch?v=uW-vTPB5O_s"
+    "url": "https://www.youtube.com/watch?v=Jkrn-zJ2EG8"
   },
   {
     "id": "wKV4OT-JWYg",
@@ -40,8 +56,8 @@
     "publishedAt": "2026-11-03T17:30:08Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "509418",
-    "likeCount": "5464",
+    "viewCount": "509897",
+    "likeCount": "5463",
     "durationSec": 861,
     "tags": [
       "ANALYSIS"
@@ -72,7 +88,7 @@
     "publishedAt": "2026-11-01T00:54:40Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "75876",
+    "viewCount": "75877",
     "likeCount": "1329",
     "durationSec": 929,
     "tags": [
@@ -89,7 +105,7 @@
     "publishedAt": "2026-10-26T03:22:08Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "8168",
+    "viewCount": "8169",
     "likeCount": "139",
     "durationSec": 943,
     "tags": [
@@ -105,8 +121,8 @@
     "publishedAt": "2026-10-13T16:00:10Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "401581",
-    "likeCount": "3030",
+    "viewCount": "401747",
+    "likeCount": "3029",
     "durationSec": 959,
     "tags": [
       "ANALYSIS"
@@ -121,7 +137,7 @@
     "publishedAt": "2026-10-11T19:14:54Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "120215",
+    "viewCount": "120219",
     "likeCount": "2251",
     "durationSec": 1240,
     "tags": [
@@ -137,7 +153,7 @@
     "publishedAt": "2026-10-09T18:19:00Z",
     "channelTitle": "THE RACE",
     "channelScore": 0.85,
-    "viewCount": "100433",
+    "viewCount": "100434",
     "likeCount": "2208",
     "durationSec": 75,
     "tags": [
