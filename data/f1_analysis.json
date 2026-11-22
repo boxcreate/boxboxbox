@@ -1,5 +1,53 @@
 [
   {
+    "id": "Vf3rqcV7Bm8",
+    "title": "How Verstappen Outsmarted Mercedes to Win Vegas | Racecraft Explained",
+    "description": "#MaxVerstappen #LasVegasGP #RedBullRacing #MercedesF1 #GeorgeRussell #KimiAntonelli #F1 #Racecraft #LateBraking #Slipstream #F1Analysis #Formula1 #F1Fanatics #redbullf1",
+    "thumbnail": "https://i.ytimg.com/vi/Vf3rqcV7Bm8/maxresdefault.jpg",
+    "publishedAt": "2026-11-22T07:00:00Z",
+    "channelTitle": "FORMULA 1 FANATICS ",
+    "channelScore": 0.5,
+    "viewCount": "2",
+    "likeCount": "0",
+    "durationSec": 1653,
+    "tags": [
+      "ANALYSIS"
+    ],
+    "url": "https://www.youtube.com/watch?v=Vf3rqcV7Bm8"
+  },
+  {
+    "id": "5HbqE1iEdCM",
+    "title": "Max Verstappen Masterclass! 2026 F1 Las Vegas GP RACE Analysis",
+    "description": "Max Verstappen Masterclass! 2026 F1 Las Vegas GP RACE Analysis\n\nCHAPTERS:\n00:00 Introduction\n00:20 Vegas Is A Good Race Track\n02:22 The Start & Grip Off Line\n03:02 Leader's Mentality  \n05:05 Deployment Strategy\n06:40 Kimi Was In A Box Seat\n07:30 Lewis Hamilton 10s Penalty\n08:49 PER v CAM\n09:39 Arvid's Accident\n10:57 Max's Restart\n11:10 Chocolate Éclair - W.T.F\n12:50 RUS Lock Ups\n15:25 Summary & Your Comments\n-------------------------------------------------------------------------\n❓ Have a quest",
+    "thumbnail": "https://i.ytimg.com/vi/5HbqE1iEdCM/maxresdefault.jpg",
+    "publishedAt": "2026-11-22T06:52:15Z",
+    "channelTitle": "lowerlaptime",
+    "channelScore": 0.5,
+    "viewCount": "4732",
+    "likeCount": "162",
+    "durationSec": 975,
+    "tags": [
+      "ANALYSIS"
+    ],
+    "url": "https://www.youtube.com/watch?v=5HbqE1iEdCM"
+  },
+  {
+    "id": "t0qrxdN2_-4",
+    "title": "Accuracy vs Precision vs Recall vs F1: Evaluation Metrics Explained",
+    "description": "With a rare class, accuracy can be misleading. Precision, recall and F1 show what a classifier actually gets right.\n\nIn this short:\n• 100 patients, only 10 of them sick\n• A model that calls everyone healthy is 90% accurate and catches no one\n• A real model's confusion matrix: 8 caught, 2 missed, 6 false alarms, 84 correctly cleared\n• Precision: 8 of the 14 flagged are truly sick, 57%\n• Recall: it finds 8 of the 10 sick, 80%\n• Moving the threshold trades one for the other; F1 balances both (0.67)",
+    "thumbnail": "https://i.ytimg.com/vi/t0qrxdN2_-4/maxresdefault.jpg",
+    "publishedAt": "2026-11-22T04:25:34Z",
+    "channelTitle": "Binary Star ",
+    "channelScore": 0.5,
+    "viewCount": "2",
+    "likeCount": "0",
+    "durationSec": 61,
+    "tags": [
+      "ANALYSIS"
+    ],
+    "url": "https://www.youtube.com/watch?v=t0qrxdN2_-4"
+  },
+  {
     "id": "jvfix3JXAGg",
     "title": "Ferrari's Las Vegas GP F1 qualifying disaster explained",
     "description": "The Race F1 Podcast, sponsored by Skinceuticals, brings you the Friday edition of our In-Casino Insights podcast - usually only available to The Race Members' Club - from Las Vegas.\n\nThe battle for pole position was a fascinating one, and included a monster lap from Q3 pacesetter Kimi Antonelli - but it was one team's absence from that fight that made the headlines. \n\nAfter Ferrari failed to get either of its cars into Q3 for the first in 18 months, Edd Straw is joined by Glenn Freeman to discus",
@@ -7,8 +55,8 @@
     "publishedAt": "2026-11-21T12:00:13Z",
     "channelTitle": "The Race F1 Podcast",
     "channelScore": 0.5,
-    "viewCount": "13468",
-    "likeCount": "161",
+    "viewCount": "16901",
+    "likeCount": "177",
     "durationSec": 2468,
     "tags": [
       "QUALI",
@@ -41,7 +89,7 @@
     "publishedAt": "2026-11-03T17:30:08Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "514006",
+    "viewCount": "515078",
     "likeCount": "5476",
     "durationSec": 861,
     "tags": [
@@ -57,7 +105,7 @@
     "publishedAt": "2026-11-02T02:26:02Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "15665",
+    "viewCount": "15667",
     "likeCount": "259",
     "durationSec": 1061,
     "tags": [
@@ -73,7 +121,7 @@
     "publishedAt": "2026-11-02T02:09:33Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "132374",
+    "viewCount": "132375",
     "likeCount": "2739",
     "durationSec": 1706,
     "tags": [
@@ -89,7 +137,7 @@
     "publishedAt": "2026-11-01T00:54:40Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "75898",
+    "viewCount": "75902",
     "likeCount": "1329",
     "durationSec": 929,
     "tags": [
@@ -122,7 +170,7 @@
     "publishedAt": "2026-10-13T16:00:10Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "403524",
+    "viewCount": "403805",
     "likeCount": "3031",
     "durationSec": 959,
     "tags": [
@@ -138,7 +186,7 @@
     "publishedAt": "2026-10-11T19:14:54Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "120280",
+    "viewCount": "120281",
     "likeCount": "2251",
     "durationSec": 1240,
     "tags": [
@@ -147,19 +195,19 @@
     "url": "https://www.youtube.com/watch?v=0B_7ZA_t0Ns"
   },
   {
-    "id": "SxFGiy37EhE",
-    "title": "❗️New F1 GLITCH in Singapore explained",
-    "description": "There was *another* problem with the 2026 F1 engines in Singapore. We explain all you need to know about the FIA error that caused it. \n\n#f1 #formula1 #f12026 #fia #fiaerror #singaporegp #singapore #singaporegrandprix",
-    "thumbnail": "https://i.ytimg.com/vi/SxFGiy37EhE/maxresdefault.jpg",
-    "publishedAt": "2026-10-09T18:19:00Z",
-    "channelTitle": "THE RACE",
-    "channelScore": 0.85,
-    "viewCount": "100445",
-    "likeCount": "2207",
-    "durationSec": 75,
+    "id": "WQ9GYFGQUz4",
+    "title": "👀 Why Was Verstappen SO FAST? | Singapore GP 2026 Friday Analysis",
+    "description": "Where Was Max SO FAST? 2026 F1 Singapore GP Friday Sprint Qualifying Analysis\n\nCHAPTERS:\n00:00 Introduction\n00:20 A Bit Dusty Down At T1\n02:35 T11 and T16 Apex Curbs - Discussion of Chicanes\n06:24 The Only Tight Line Opportunity - T9\n08:03 Q1 - Kimis T1 Line\n08:26 Q2 - Ferrari and Mcl ahead of Max\n09:19 Hairpin Curved Braking Lines\n11:12 The Curbs in Q3 - T11 and T16\n14:25 Telemetry Analysis\n18:00 Weather Update\n18:29 Your Comments \n---------------------------------------------------------------",
+    "thumbnail": "https://i.ytimg.com/vi/WQ9GYFGQUz4/maxresdefault.jpg",
+    "publishedAt": "2026-10-09T14:50:41Z",
+    "channelTitle": "lowerlaptime",
+    "channelScore": 0.5,
+    "viewCount": "16870",
+    "likeCount": "259",
+    "durationSec": 1137,
     "tags": [
       "ANALYSIS"
     ],
-    "url": "https://www.youtube.com/watch?v=SxFGiy37EhE"
+    "url": "https://www.youtube.com/watch?v=WQ9GYFGQUz4"
   }
 ]
