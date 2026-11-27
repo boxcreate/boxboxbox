@@ -1,37 +1,5 @@
 [
   {
-    "id": "llLO5hoShFs",
-    "title": "How Max Won An Incredibly Complicated Race & More In Las Vegas | Jolyon Palmer's F1 TV Analysis",
-    "description": "Jolyon Palmer dives into a thriller of a race around the streets of Las Vegas \n\nFor more F1® videos, visit: https://www.Formula1.com\n\nVisit our store: https://f1store.formula1.com/\n\nFollow F1®:\nhttps://www.instagram.com/F1\nhttps://www.facebook.com/Formula1/\nhttps://www.twitter.com/F1\nhttps://www.twitch.tv/formula1\nhttps://www.tiktok.com/@f1\n\n#F1 #LasVegasGP",
-    "thumbnail": "https://i.ytimg.com/vi/llLO5hoShFs/maxresdefault.jpg",
-    "publishedAt": "2026-11-24T18:03:52Z",
-    "channelTitle": "FORMULA 1",
-    "channelScore": 1,
-    "viewCount": "506210",
-    "likeCount": "5459",
-    "durationSec": 867,
-    "tags": [
-      "ANALYSIS"
-    ],
-    "url": "https://www.youtube.com/watch?v=llLO5hoShFs"
-  },
-  {
-    "id": "ZnyX8S-U-vc",
-    "title": "Las Vegas GP start explained: lights out to Turn 5 in five moments | 2026 F1",
-    "description": "The 2026 Las Vegas Grand Prix start, slowed down where it matters: five drivers, five moments, from lights out to Turn 5.\n\n1. Reaction: Gasly was first to move, 0.239 s after the start signal, then Lindblad (0.281 s) and Verstappen (0.289 s). Reaction times are our own timing; F1 does not publish them.\n2. The launch: Colapinto and Hamilton covered the most ground in the first 3 seconds, 34 m each. Verstappen, starting from P1, 33 m.\n3. Turn 1: Verstappen led into Turn 1 at 197 km/h, with Russell",
-    "thumbnail": "https://i.ytimg.com/vi/ZnyX8S-U-vc/maxresdefault.jpg",
-    "publishedAt": "2026-11-23T22:06:54Z",
-    "channelTitle": "Race Strategist",
-    "channelScore": 0.5,
-    "viewCount": "59",
-    "likeCount": "0",
-    "durationSec": 67,
-    "tags": [
-      "ANALYSIS"
-    ],
-    "url": "https://www.youtube.com/watch?v=ZnyX8S-U-vc"
-  },
-  {
     "id": "ycdAyMi_4-w",
     "title": "2026 F1 Las Vegas GP race analysis by Peter Windsor",
     "description": "Peter Windsor unpacks the key elements of a sensational 2026 Las Vegas GP.  By opting for an alternative power management strategy, Red Bull's Max Verstappen gave us a graphic demonstration of a superb high-speed cornering technique that is too often taken for granted - one that he used to phenomenal effect on the outside of a 180 mph (300 kph) left-hand kink just before the start-finish line at Vegas.  His masterclass resulted in a resounding win from the two McLaren-Mercedes drivers (Lando Nor",
@@ -39,7 +7,7 @@
     "publishedAt": "2026-11-22T11:25:50Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "171661",
+    "viewCount": "172267",
     "likeCount": "3549",
     "durationSec": 1559,
     "tags": [
@@ -55,8 +23,8 @@
     "publishedAt": "2026-11-22T06:52:15Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "23338",
-    "likeCount": "396",
+    "viewCount": "23551",
+    "likeCount": "399",
     "durationSec": 975,
     "tags": [
       "ANALYSIS"
@@ -71,7 +39,7 @@
     "publishedAt": "2026-11-21T11:14:08Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "65958",
+    "viewCount": "65991",
     "likeCount": "1087",
     "durationSec": 1159,
     "tags": [
@@ -79,6 +47,38 @@
       "ANALYSIS"
     ],
     "url": "https://www.youtube.com/watch?v=68Yc2rLjHFs"
+  },
+  {
+    "id": "6ComOzvQ31g",
+    "title": "The biggest F1 2026 driver drop-offs explained, with James Hinchcliffe",
+    "description": "On the latest episode of The Race F1 Podcast, sponsored by Skinceuticals, Edd Straw is joined by Ben Anderson and special guest James Hinchcliffe (F1 TV, Off-track with Hinch and Rossi, IndyCar on Fox) for an in-depth look at 2026's 'lost' drivers - those drivers who thrived last year but have struggled massively to adapt to the current regulations.\n\nBut are there common threads that explain why Russell, Piastri and Albon and others have been off-colour this season, and is there any hope that th",
+    "thumbnail": "https://i.ytimg.com/vi/6ComOzvQ31g/maxresdefault.jpg",
+    "publishedAt": "2026-11-16T12:18:04Z",
+    "channelTitle": "The Race F1 Podcast",
+    "channelScore": 0.5,
+    "viewCount": "48374",
+    "likeCount": "513",
+    "durationSec": 4336,
+    "tags": [
+      "ANALYSIS"
+    ],
+    "url": "https://www.youtube.com/watch?v=6ComOzvQ31g"
+  },
+  {
+    "id": "t8KeteuVwFQ",
+    "title": "Confusion Matrix Explained: Precision, Recall & F1 Score",
+    "description": "Confusion Matrix, Precision, Recall, and F1 Score explained visually! Learn how to evaluate machine learning classification models, why 95% accuracy can be misleading, and how to calculate precision, recall, and F1 score using real examples.\n\nCan a machine learning model achieve 95% accuracy and still be a poor classifier?\n\nAbsolutely. Accuracy alone can hide serious classification errors, especially when your dataset contains many more examples of one class than another.\n\nIn this step-by-step m",
+    "thumbnail": "https://i.ytimg.com/vi/t8KeteuVwFQ/maxresdefault.jpg",
+    "publishedAt": "2026-11-16T03:56:27Z",
+    "channelTitle": "Softmaxedd",
+    "channelScore": 0.5,
+    "viewCount": "132",
+    "likeCount": "2",
+    "durationSec": 483,
+    "tags": [
+      "ANALYSIS"
+    ],
+    "url": "https://www.youtube.com/watch?v=t8KeteuVwFQ"
   },
   {
     "id": "NW_DV7MWfpM",
@@ -105,7 +105,7 @@
     "publishedAt": "2026-11-03T17:30:08Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "519845",
+    "viewCount": "520102",
     "likeCount": "5489",
     "durationSec": 861,
     "tags": [
@@ -137,13 +137,30 @@
     "publishedAt": "2026-11-02T02:09:33Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "132433",
+    "viewCount": "132435",
     "likeCount": "2739",
     "durationSec": 1706,
     "tags": [
       "ANALYSIS"
     ],
     "url": "https://www.youtube.com/watch?v=WViE8T1aRQo"
+  },
+  {
+    "id": "gVjKUVNzCGc",
+    "title": "2026 F1 Mexican GP Qualifying analysis by Peter Windsor",
+    "description": "It's Sir Lewis Hamilton on the pole in Mexico for Ferrari!  The seven-times World Champion drove a superlative lap of the Autódromo Hermanos Rodríguez to set fastest lap in the closing seconds of Q3, beating Mercedes' George Russell into P2 and Lewis' Ferrari, team-mate, Charles Leclerc, into P3.  Red Bull's Max Verstappen was fourth fastest (and quickest in terms of combined best sector times) but will actually line up P5 (with a grid penalty), behind Kimi Antonelli in the other Merc. McLaren-M",
+    "thumbnail": "https://i.ytimg.com/vi/gVjKUVNzCGc/maxresdefault.jpg",
+    "publishedAt": "2026-11-01T00:54:40Z",
+    "channelTitle": "Peter Windsor",
+    "channelScore": 0.5,
+    "viewCount": "75921",
+    "likeCount": "1329",
+    "durationSec": 929,
+    "tags": [
+      "QUALI",
+      "ANALYSIS"
+    ],
+    "url": "https://www.youtube.com/watch?v=gVjKUVNzCGc"
   },
   {
     "id": "5j0TQxXXNdY",
@@ -153,7 +170,7 @@
     "publishedAt": "2026-10-26T03:22:08Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "8179",
+    "viewCount": "8180",
     "likeCount": "139",
     "durationSec": 943,
     "tags": [
@@ -169,7 +186,7 @@
     "publishedAt": "2026-10-13T16:00:10Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "404838",
+    "viewCount": "404847",
     "likeCount": "3031",
     "durationSec": 959,
     "tags": [
@@ -185,13 +202,29 @@
     "publishedAt": "2026-10-11T19:14:54Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "120363",
+    "viewCount": "120364",
     "likeCount": "2251",
     "durationSec": 1240,
     "tags": [
       "ANALYSIS"
     ],
     "url": "https://www.youtube.com/watch?v=0B_7ZA_t0Ns"
+  },
+  {
+    "id": "SxFGiy37EhE",
+    "title": "❗️New F1 GLITCH in Singapore explained",
+    "description": "There was *another* problem with the 2026 F1 engines in Singapore. We explain all you need to know about the FIA error that caused it. \n\n#f1 #formula1 #f12026 #fia #fiaerror #singaporegp #singapore #singaporegrandprix",
+    "thumbnail": "https://i.ytimg.com/vi/SxFGiy37EhE/maxresdefault.jpg",
+    "publishedAt": "2026-10-09T18:19:00Z",
+    "channelTitle": "THE RACE",
+    "channelScore": 0.85,
+    "viewCount": "100456",
+    "likeCount": "2208",
+    "durationSec": 75,
+    "tags": [
+      "ANALYSIS"
+    ],
+    "url": "https://www.youtube.com/watch?v=SxFGiy37EhE"
   },
   {
     "id": "WQ9GYFGQUz4",
@@ -210,20 +243,19 @@
     "url": "https://www.youtube.com/watch?v=WQ9GYFGQUz4"
   },
   {
-    "id": "gVjKUVNzCGc",
-    "title": "2026 F1 Mexican GP Qualifying analysis by Peter Windsor",
-    "description": "It's Sir Lewis Hamilton on the pole in Mexico for Ferrari!  The seven-times World Champion drove a superlative lap of the Autódromo Hermanos Rodríguez to set fastest lap in the closing seconds of Q3, beating Mercedes' George Russell into P2 and Lewis' Ferrari, team-mate, Charles Leclerc, into P3.  Red Bull's Max Verstappen was fourth fastest (and quickest in terms of combined best sector times) but will actually line up P5 (with a grid penalty), behind Kimi Antonelli in the other Merc. McLaren-M",
-    "thumbnail": "https://i.ytimg.com/vi/gVjKUVNzCGc/maxresdefault.jpg",
-    "publishedAt": "2026-11-01T00:54:40Z",
-    "channelTitle": "Peter Windsor",
-    "channelScore": 0.5,
-    "viewCount": "75920",
-    "likeCount": "1329",
-    "durationSec": 929,
+    "id": "svYHZNsU9pc",
+    "title": "Analysing Red Bull's Improvements At Sepang | Jolyon Palmer's F1 TV Analysis",
+    "description": "Jolyon Palmer talks through how Red Bull seemingly improved on their pace at Sepang, why Ferrari opted for their strategy in the opening stages of the race, and so much more from the Bahrain Grand Prix in Malaysia.\n\nFor more F1® videos, visit: https://www.Formula1.com\n\nVisit our store: https://f1store.formula1.com/\n\nFollow F1®:\nhttps://www.instagram.com/F1\nhttps://www.facebook.com/Formula1/\nhttps://www.twitter.com/F1\nhttps://www.twitch.tv/formula1\nhttps://www.tiktok.com/@f1\n\n#F1",
+    "thumbnail": "https://i.ytimg.com/vi/svYHZNsU9pc/maxresdefault.jpg",
+    "publishedAt": "2026-10-06T17:15:14Z",
+    "channelTitle": "FORMULA 1",
+    "channelScore": 1,
+    "viewCount": "413768",
+    "likeCount": "3190",
+    "durationSec": 745,
     "tags": [
-      "QUALI",
       "ANALYSIS"
     ],
-    "url": "https://www.youtube.com/watch?v=gVjKUVNzCGc"
+    "url": "https://www.youtube.com/watch?v=svYHZNsU9pc"
   }
 ]
