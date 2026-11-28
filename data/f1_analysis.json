@@ -1,19 +1,35 @@
 [
   {
-    "id": "asSRWmOQmDw",
-    "title": "F1 Score in Machine Learning Explained! 🧠 | Precision vs Recall #Shorts",
-    "description": "What is the F1 Score, and why is it important in Machine Learning?\n\nF1 Score combines Precision and Recall into a single metric using their harmonic mean.\n\n📊 Precision: How many positive predictions were actually correct?\n\n🔍 Recall: How many actual positive cases did the model successfully identify?\n\n🎯 F1 Score: Measures the balance between Precision and Recall.\n\nIn this video, we explain the F1 Score formula with a simple numerical example and explore why it is particularly useful when deali",
-    "thumbnail": "https://i.ytimg.com/vi/asSRWmOQmDw/maxresdefault.jpg",
-    "publishedAt": "2026-11-24T13:59:07Z",
-    "channelTitle": "The Neural Network ",
+    "id": "95Fk5PCMYvo",
+    "title": "Williams F1 cost cap overspend explained",
+    "description": "🏎️ Welcome to F1REVIEW123 - your home for Formula 1 news, race analysis, driver stories, team updates, rumours, predictions, history, standings, and everything happening in the world of F1.\n\n🔥 Subscribe for regular Formula 1 content, race weekend coverage, breaking news, and in-depth analysis from across the grid.\n\n#formula1 #f1 #f1news #motorsport #formulaone #grandprix #f1fans #racing #f1review123",
+    "thumbnail": "https://i.ytimg.com/vi/95Fk5PCMYvo/maxresdefault.jpg",
+    "publishedAt": "2026-11-28T01:44:08Z",
+    "channelTitle": "F1Review123",
     "channelScore": 0.5,
-    "viewCount": "79",
-    "likeCount": "2",
-    "durationSec": 64,
+    "viewCount": "11",
+    "likeCount": "0",
+    "durationSec": 88,
     "tags": [
       "ANALYSIS"
     ],
-    "url": "https://www.youtube.com/watch?v=asSRWmOQmDw"
+    "url": "https://www.youtube.com/watch?v=95Fk5PCMYvo"
+  },
+  {
+    "id": "pbAMlykiWH8",
+    "title": "Future F1 Engine Regulations: The Transition to V8 Engines Explained",
+    "description": "🏁 Formula 1 news, analysis, interviews, reactions, highlights and race weekend coverage from TwinFormula1.\n\n🏎️ SUPPORT TWINFORMULA1 – BECOME A CHANNEL MEMBER!\n\nEnjoying the content? You can now become a channel member and help support the channel. Every membership helps TwinFormula1 grow and bring you more F1 content!\n\n👉 JOIN HERE:\nhttps://www.youtube.com/channel/UCkUoZK7T7ItJ5gkKM4qSp5w/join\n\nhttps://x.com/TwinFormula1\n\nhttps://instagram.com/TwinFormula1\n\nhttps://tiktok.com/@TwinFormula1\n\nht",
+    "thumbnail": "https://i.ytimg.com/vi/pbAMlykiWH8/maxresdefault.jpg",
+    "publishedAt": "2026-11-27T21:40:13Z",
+    "channelTitle": "TwinFormula1",
+    "channelScore": 0.5,
+    "viewCount": "215",
+    "likeCount": "0",
+    "durationSec": 295,
+    "tags": [
+      "ANALYSIS"
+    ],
+    "url": "https://www.youtube.com/watch?v=pbAMlykiWH8"
   },
   {
     "id": "ycdAyMi_4-w",
@@ -23,8 +39,8 @@
     "publishedAt": "2026-11-22T11:25:50Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "172746",
-    "likeCount": "3552",
+    "viewCount": "173083",
+    "likeCount": "3556",
     "durationSec": 1559,
     "tags": [
       "ANALYSIS"
@@ -39,29 +55,13 @@
     "publishedAt": "2026-11-22T06:52:15Z",
     "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "23723",
-    "likeCount": "401",
+    "viewCount": "23831",
+    "likeCount": "402",
     "durationSec": 975,
     "tags": [
       "ANALYSIS"
     ],
     "url": "https://www.youtube.com/watch?v=5HbqE1iEdCM"
-  },
-  {
-    "id": "t0qrxdN2_-4",
-    "title": "Accuracy vs Precision vs Recall vs F1: Evaluation Metrics Explained",
-    "description": "With a rare class, accuracy can be misleading. Precision, recall and F1 show what a classifier actually gets right.\n\nIn this short:\n• 100 patients, only 10 of them sick\n• A model that calls everyone healthy is 90% accurate and catches no one\n• A real model's confusion matrix: 8 caught, 2 missed, 6 false alarms, 84 correctly cleared\n• Precision: 8 of the 14 flagged are truly sick, 57%\n• Recall: it finds 8 of the 10 sick, 80%\n• Moving the threshold trades one for the other; F1 balances both (0.67)",
-    "thumbnail": "https://i.ytimg.com/vi/t0qrxdN2_-4/maxresdefault.jpg",
-    "publishedAt": "2026-11-22T04:25:34Z",
-    "channelTitle": "Binary Star ",
-    "channelScore": 0.5,
-    "viewCount": "63",
-    "likeCount": "0",
-    "durationSec": 61,
-    "tags": [
-      "ANALYSIS"
-    ],
-    "url": "https://www.youtube.com/watch?v=t0qrxdN2_-4"
   },
   {
     "id": "68Yc2rLjHFs",
@@ -71,7 +71,7 @@
     "publishedAt": "2026-11-21T11:14:08Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "66029",
+    "viewCount": "66054",
     "likeCount": "1087",
     "durationSec": 1159,
     "tags": [
@@ -81,20 +81,20 @@
     "url": "https://www.youtube.com/watch?v=68Yc2rLjHFs"
   },
   {
-    "id": "mfkRldzUvSo",
-    "title": "Las Vegas Strip Circuit: Every Corner Explained | Track Guide Tuesday #f1 #formula1",
-    "description": "The Las Vegas Strip Circuit. 6.2 km, 17 corners, anti-clockwise, and a track where the HARDEST thing to do is keep your tyres warm. 🥶🎰\n\nOn this Track Guide Tuesday we go through a full lap: the Turn 1 hairpin, the sweep around the Sphere, the slowest corner on the calendar at 80 km/h, and then 1.9 km flat out down Las Vegas Boulevard at over 220 mph before one of the biggest braking zones of the season.\n\nSo do the drivers LOVE Vegas or HATE it? Tell us in the comments 👇\n\nFollow for everything",
-    "thumbnail": "https://i.ytimg.com/vi/mfkRldzUvSo/maxresdefault.jpg",
-    "publishedAt": "2026-11-17T10:31:07Z",
-    "channelTitle": "F1 Maxing",
+    "id": "6ComOzvQ31g",
+    "title": "The biggest F1 2026 driver drop-offs explained, with James Hinchcliffe",
+    "description": "On the latest episode of The Race F1 Podcast, sponsored by Skinceuticals, Edd Straw is joined by Ben Anderson and special guest James Hinchcliffe (F1 TV, Off-track with Hinch and Rossi, IndyCar on Fox) for an in-depth look at 2026's 'lost' drivers - those drivers who thrived last year but have struggled massively to adapt to the current regulations.\n\nBut are there common threads that explain why Russell, Piastri and Albon and others have been off-colour this season, and is there any hope that th",
+    "thumbnail": "https://i.ytimg.com/vi/6ComOzvQ31g/maxresdefault.jpg",
+    "publishedAt": "2026-11-16T12:18:04Z",
+    "channelTitle": "The Race F1 Podcast",
     "channelScore": 0.5,
-    "viewCount": "9983",
-    "likeCount": "495",
-    "durationSec": 87,
+    "viewCount": "48447",
+    "likeCount": "513",
+    "durationSec": 4336,
     "tags": [
       "ANALYSIS"
     ],
-    "url": "https://www.youtube.com/watch?v=mfkRldzUvSo"
+    "url": "https://www.youtube.com/watch?v=6ComOzvQ31g"
   },
   {
     "id": "t8KeteuVwFQ",
@@ -104,7 +104,7 @@
     "publishedAt": "2026-11-16T03:56:27Z",
     "channelTitle": "Softmaxedd",
     "channelScore": 0.5,
-    "viewCount": "134",
+    "viewCount": "137",
     "likeCount": "2",
     "durationSec": 483,
     "tags": [
@@ -113,20 +113,21 @@
     "url": "https://www.youtube.com/watch?v=t8KeteuVwFQ"
   },
   {
-    "id": "x5sCtf2NHQA",
-    "title": "Accuracy, Precision, Recall and F1 Explained with Football Data",
-    "description": "Accuracy, precision, recall, specificity and the F1 score explained with football data: the numbers that summarize a confusion matrix.\nWe compute each of them from the four cells, add balanced accuracy, and see why accuracy can mislead when a class is rare.\n\nChapters\n0:00 Six players and their confusion matrix\n2:15 Accuracy and error rate\n2:54 Precision, recall and specificity\n4:12 F1 score and balanced accuracy\n5:21 A lower threshold changes the numbers\n7:52 All players, and the base rate\n9:56 ",
-    "thumbnail": "https://i.ytimg.com/vi/x5sCtf2NHQA/maxresdefault.jpg",
-    "publishedAt": "2026-11-09T13:20:55Z",
-    "channelTitle": "Prof. Markus Weinmann",
+    "id": "NW_DV7MWfpM",
+    "title": "2026 F1 Brazilian GP QUALIFYING Analysis",
+    "description": "2026 F1 Brazilian GP QUALIFYING Analysis \n\nCHAPTERS:\n00:00 Introduction & Thoughts\n00:18 FP3 Insights \n05:00 Wet Quali Q1 Discussion\n06:46 Wet Lines\n09:51 Camara Crash & BB\n11:00 Mercedes Q3 & RUS v NOR\n14:33 Your Comments\n-------------------------------------------------------------------------\n❓ Have a question or thought? Drop it in the comments for me!\n👍 Like the video? Give it a thumbs up!\n🔔 Like this content and insight? Subscribe to my channel and turn the bell icon on!\n----------------",
+    "thumbnail": "https://i.ytimg.com/vi/NW_DV7MWfpM/maxresdefault.jpg",
+    "publishedAt": "2026-11-08T00:29:33Z",
+    "channelTitle": "lowerlaptime",
     "channelScore": 0.5,
-    "viewCount": "31",
-    "likeCount": "2",
-    "durationSec": 641,
+    "viewCount": "7558",
+    "likeCount": "175",
+    "durationSec": 898,
     "tags": [
+      "QUALI",
       "ANALYSIS"
     ],
-    "url": "https://www.youtube.com/watch?v=x5sCtf2NHQA"
+    "url": "https://www.youtube.com/watch?v=NW_DV7MWfpM"
   },
   {
     "id": "wKV4OT-JWYg",
@@ -136,13 +137,62 @@
     "publishedAt": "2026-11-03T17:30:08Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "520345",
+    "viewCount": "520862",
     "likeCount": "5489",
     "durationSec": 861,
     "tags": [
       "ANALYSIS"
     ],
     "url": "https://www.youtube.com/watch?v=wKV4OT-JWYg"
+  },
+  {
+    "id": "mimS5PUEKJU",
+    "title": "Kimi Antonelli Is WORLD CHAMPION! 2026 F1 Mexican GP RACE Analysis",
+    "description": "Kimi Antonelli Is WORLD CHAMPION! 2026 F1 Mexican GP RACE Analysis\n\nCHAPTERS:\n00:00 Introduction\n00:44 Word on Kimi - 2026 F1 World Champion \n03:50 Lewis' Start and T1/T2\n07:00 Turn 4 Lap 1 & Penalties\n09:03 LEC Pace, Ferrari Strategy with 5s Penalty\n11:11 Max's Key Laps\n11:49 Red Flag & Max's Start\n13:10 PIA v LIN\n14:21 Max's Restart\n17:16 Your Comments\n-------------------------------------------------------------------------\n❓ Have a question or thought? Drop it in the comments for me!\n👍 Like",
+    "thumbnail": "https://i.ytimg.com/vi/mimS5PUEKJU/maxresdefault.jpg",
+    "publishedAt": "2026-11-02T02:26:02Z",
+    "channelTitle": "lowerlaptime",
+    "channelScore": 0.5,
+    "viewCount": "15678",
+    "likeCount": "259",
+    "durationSec": 1061,
+    "tags": [
+      "ANALYSIS"
+    ],
+    "url": "https://www.youtube.com/watch?v=mimS5PUEKJU"
+  },
+  {
+    "id": "WViE8T1aRQo",
+    "title": "2026 F1 Mexican GP race analysis by Peter Windsor",
+    "description": "SPOILER ALERT: Peter Windsor details the key elements of a dramatic, compelling and often emotional day in Mexico. Watchable in 4k.\nBecome a channel member to enjoy our live race chats and other premium content:\nhttps//www.youtube.com/@peterwindsor/join\nAlternative race stats courtesy of Aleš Norskŷ:\nwww.GPfactsandnumbers.com \nWith thanks to Jetcraft, the world's largest buyer and seller of executive jets: https://jetcraft.com\nTo TrackNinja, a lap-timer and data app designed to help users improv",
+    "thumbnail": "https://i.ytimg.com/vi/WViE8T1aRQo/maxresdefault.jpg",
+    "publishedAt": "2026-11-02T02:09:33Z",
+    "channelTitle": "Peter Windsor",
+    "channelScore": 0.5,
+    "viewCount": "132440",
+    "likeCount": "2739",
+    "durationSec": 1706,
+    "tags": [
+      "ANALYSIS"
+    ],
+    "url": "https://www.youtube.com/watch?v=WViE8T1aRQo"
+  },
+  {
+    "id": "gVjKUVNzCGc",
+    "title": "2026 F1 Mexican GP Qualifying analysis by Peter Windsor",
+    "description": "It's Sir Lewis Hamilton on the pole in Mexico for Ferrari!  The seven-times World Champion drove a superlative lap of the Autódromo Hermanos Rodríguez to set fastest lap in the closing seconds of Q3, beating Mercedes' George Russell into P2 and Lewis' Ferrari, team-mate, Charles Leclerc, into P3.  Red Bull's Max Verstappen was fourth fastest (and quickest in terms of combined best sector times) but will actually line up P5 (with a grid penalty), behind Kimi Antonelli in the other Merc. McLaren-M",
+    "thumbnail": "https://i.ytimg.com/vi/gVjKUVNzCGc/maxresdefault.jpg",
+    "publishedAt": "2026-11-01T00:54:40Z",
+    "channelTitle": "Peter Windsor",
+    "channelScore": 0.5,
+    "viewCount": "75921",
+    "likeCount": "1329",
+    "durationSec": 929,
+    "tags": [
+      "QUALI",
+      "ANALYSIS"
+    ],
+    "url": "https://www.youtube.com/watch?v=gVjKUVNzCGc"
   },
   {
     "id": "5j0TQxXXNdY",
@@ -168,7 +218,7 @@
     "publishedAt": "2026-10-13T16:00:10Z",
     "channelTitle": "FORMULA 1",
     "channelScore": 1,
-    "viewCount": "404870",
+    "viewCount": "404885",
     "likeCount": "3032",
     "durationSec": 959,
     "tags": [
@@ -184,7 +234,7 @@
     "publishedAt": "2026-10-11T19:14:54Z",
     "channelTitle": "Peter Windsor",
     "channelScore": 0.5,
-    "viewCount": "120366",
+    "viewCount": "120367",
     "likeCount": "2251",
     "durationSec": 1240,
     "tags": [
@@ -209,20 +259,19 @@
     "url": "https://www.youtube.com/watch?v=WQ9GYFGQUz4"
   },
   {
-    "id": "NW_DV7MWfpM",
-    "title": "2026 F1 Brazilian GP QUALIFYING Analysis",
-    "description": "2026 F1 Brazilian GP QUALIFYING Analysis \n\nCHAPTERS:\n00:00 Introduction & Thoughts\n00:18 FP3 Insights \n05:00 Wet Quali Q1 Discussion\n06:46 Wet Lines\n09:51 Camara Crash & BB\n11:00 Mercedes Q3 & RUS v NOR\n14:33 Your Comments\n-------------------------------------------------------------------------\n❓ Have a question or thought? Drop it in the comments for me!\n👍 Like the video? Give it a thumbs up!\n🔔 Like this content and insight? Subscribe to my channel and turn the bell icon on!\n----------------",
-    "thumbnail": "https://i.ytimg.com/vi/NW_DV7MWfpM/maxresdefault.jpg",
-    "publishedAt": "2026-11-08T00:29:33Z",
-    "channelTitle": "lowerlaptime",
-    "channelScore": 0.5,
-    "viewCount": "7558",
-    "likeCount": "175",
-    "durationSec": 898,
+    "id": "SxFGiy37EhE",
+    "title": "❗️New F1 GLITCH in Singapore explained",
+    "description": "There was *another* problem with the 2026 F1 engines in Singapore. We explain all you need to know about the FIA error that caused it. \n\n#f1 #formula1 #f12026 #fia #fiaerror #singaporegp #singapore #singaporegrandprix",
+    "thumbnail": "https://i.ytimg.com/vi/SxFGiy37EhE/maxresdefault.jpg",
+    "publishedAt": "2026-10-09T18:19:00Z",
+    "channelTitle": "THE RACE",
+    "channelScore": 0.85,
+    "viewCount": "100458",
+    "likeCount": "2209",
+    "durationSec": 75,
     "tags": [
-      "QUALI",
       "ANALYSIS"
     ],
-    "url": "https://www.youtube.com/watch?v=NW_DV7MWfpM"
+    "url": "https://www.youtube.com/watch?v=SxFGiy37EhE"
   }
 ]
